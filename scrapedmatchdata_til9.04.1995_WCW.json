@@ -1,0 +1,3732 @@
+[
+    {
+        "match card": "Alex Wright defeats Dean Malenko (5:17)",
+        "date": "30.09.1996",
+        "location": " @ CSU Convocation Center in Cleveland, Ohio, USA",
+        "event title": "WCW Monday NITRO #55",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Alex Wright",
+            "Dean Malenko"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Arn Anderson defeats Chris Jericho (5:35)",
+        "date": "30.09.1996",
+        "location": " @ CSU Convocation Center in Cleveland, Ohio, USA",
+        "event title": "WCW Monday NITRO #55",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Arn Anderson",
+            "Chris Jericho"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Chris Benoit defeats Rick Steiner (4:25)",
+        "date": "30.09.1996",
+        "location": " @ CSU Convocation Center in Cleveland, Ohio, USA",
+        "event title": "WCW Monday NITRO #55",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Chris Benoit",
+            "Rick Steiner"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Eddie Guerrero defeats Jim Powers (6:27)",
+        "date": "30.09.1996",
+        "location": " @ CSU Convocation Center in Cleveland, Ohio, USA",
+        "event title": "WCW Monday NITRO #55",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Eddie Guerrero",
+            "Jim Powers"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Hugh Morrus defeats Brad Armstrong (4:15)",
+        "date": "30.09.1996",
+        "location": " @ CSU Convocation Center in Cleveland, Ohio, USA",
+        "event title": "WCW Monday NITRO #55",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Hugh Morrus",
+            "Brad Armstrong"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger defeats M. Wallstreet (7:23)",
+        "date": "30.09.1996",
+        "location": " @ CSU Convocation Center in Cleveland, Ohio, USA",
+        "event title": "WCW Monday NITRO #55",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "M. Wallstreet"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Faces Of Fear (Meng & The Barbarian) defeat The Rock 'n' Roll Express (Ricky Morton & Robert Gibson) (8:25)",
+        "date": "30.09.1996",
+        "location": " @ CSU Convocation Center in Cleveland, Ohio, USA",
+        "event title": "WCW Monday NITRO #55",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Faces Of Fear",
+            "Meng",
+            "The Barbarian",
+            "Ricky Morton",
+            "Robert Gibson"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Public Enemy (Johnny Grunge & Rocco Rock) (c) defeat El Technico & Juventud Guerrera (2:06)",
+        "date": "30.09.1996",
+        "location": " @ CSU Convocation Center in Cleveland, Ohio, USA",
+        "event title": "WCW Monday NITRO #55",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Public Enemy",
+            "Johnny Grunge",
+            "Rocco Rock",
+            "El Technico",
+            "Juventud Guerrera"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Chris Jericho defeats Mike Enos (7:42)",
+        "date": "23.09.1996",
+        "location": " @ Birmingham, Alabama, USA",
+        "event title": "WCW Monday NITRO #54",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Chris Jericho",
+            "Mike Enos"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Glacier defeats Pat Tanaka (1:11)",
+        "date": "23.09.1996",
+        "location": " @ Birmingham, Alabama, USA",
+        "event title": "WCW Monday NITRO #54",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Glacier",
+            "Pat Tanaka"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Greg Valentine defeats Randy Savage by DQ (2:58)",
+        "date": "23.09.1996",
+        "location": " @ Birmingham, Alabama, USA",
+        "event title": "WCW Monday NITRO #54",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Greg Valentine",
+            "Randy Savage"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Kevin Sullivan & Konnan defeat Brad Armstrong & Juventud Guerrera (2:37)",
+        "date": "23.09.1996",
+        "location": " @ Birmingham, Alabama, USA",
+        "event title": "WCW Monday NITRO #54",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Kevin Sullivan",
+            "Konnan",
+            "Brad Armstrong",
+            "Juventud Guerrera"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Syxx defeats Jim Duggan (2:20)",
+        "date": "23.09.1996",
+        "location": " @ Birmingham, Alabama, USA",
+        "event title": "WCW Monday NITRO #54",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Syxx",
+            "Jim Duggan"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Giant defeats Jim Powers",
+        "date": "23.09.1996",
+        "location": " @ Birmingham, Alabama, USA",
+        "event title": "WCW Monday NITRO #54",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Jim Powers"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Outsiders (Kevin Nash & Scott Hall) defeat High Voltage (Kenny Kaos & Robbie Rage)",
+        "date": "23.09.1996",
+        "location": " @ Birmingham, Alabama, USA",
+        "event title": "WCW Monday NITRO #54",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Outsiders",
+            "Kevin Nash",
+            "Scott Hall",
+            "High Voltage",
+            "Kenny Kaos",
+            "Robbie Rage"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "nWo Sting defeats Bo LeDuc (1:36)",
+        "date": "23.09.1996",
+        "location": " @ Birmingham, Alabama, USA",
+        "event title": "WCW Monday NITRO #54",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "nWo Sting",
+            "Bo LeDuc"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Public Enemy (Johnny Grunge & Rocco Rock) defeat Harlem Heat (Booker T & Stevie Ray) (c) - TITLE CHANGE !!!",
+        "date": "23.09.1996",
+        "location": " @ Birmingham, Alabama, USA",
+        "event title": "WCW Monday NITRO #54",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Public Enemy",
+            "Johnny Grunge",
+            "Rocco Rock",
+            "Harlem Heat",
+            "Booker T",
+            "Stevie Ray"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Arn Anderson & Ric Flair defeat Chris Jericho & Marcus Alexander Bagwell (11:06)",
+        "date": "16.09.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #53",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Arn Anderson",
+            "Ric Flair",
+            "Chris Jericho",
+            "Marcus Alexander Bagwell"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Brad Armstrong defeats Hugh Morrus (3:55)",
+        "date": "16.09.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #53",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Brad Armstrong",
+            "Hugh Morrus"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Diamond Dallas Page defeats Ice-Train (4:41)",
+        "date": "16.09.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #53",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Diamond Dallas Page",
+            "Ice-Train"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Glacier defeats Big Bubba Rogers (2:42)",
+        "date": "16.09.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #53",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Glacier",
+            "Big Bubba Rogers"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Konnan defeats Super Calo (6:44)",
+        "date": "16.09.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #53",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Konnan",
+            "Super Calo"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Scott Norton defeats Randy Savage by DQ (6:35)",
+        "date": "16.09.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #53",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Scott Norton",
+            "Randy Savage"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger defeats Chris Benoit & Steve McMichael by DQ (6:00)",
+        "date": "16.09.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #53",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Chris Benoit",
+            "Steve McMichael"
+        ],
+        "match type": "Two On One Handicap: "
+    },
+    {
+        "match card": "Rey Misterio Jr. (c) defeats Juventud Guerrera (6:54)",
+        "date": "16.09.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #53",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Rey Misterio Jr.",
+            "Juventud Guerrera"
+        ],
+        "match type": "WCW World Cruiserweight Title: "
+    },
+    {
+        "match card": "John Tenta defeats Randy Savage by Count Out (3:00)",
+        "date": "09.09.1996",
+        "location": " @ Civic Center in Columbus, Georgia, USA",
+        "event title": "WCW Monday NITRO #52",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "John Tenta",
+            "Randy Savage"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Juventud Guerrera defeats Joe Gomez (2:12)",
+        "date": "09.09.1996",
+        "location": " @ Civic Center in Columbus, Georgia, USA",
+        "event title": "WCW Monday NITRO #52",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Juventud Guerrera",
+            "Joe Gomez"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Rick Steiner defeats Lex Luger by Count Out (6:58)",
+        "date": "09.09.1996",
+        "location": " @ Civic Center in Columbus, Georgia, USA",
+        "event title": "WCW Monday NITRO #52",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Rick Steiner",
+            "Lex Luger"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Super Calo defeats Pat Tanaka (2:23)",
+        "date": "09.09.1996",
+        "location": " @ Civic Center in Columbus, Georgia, USA",
+        "event title": "WCW Monday NITRO #52",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Super Calo",
+            "Pat Tanaka"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Faces Of Fear (Meng & The Barbarian) defeat The Public Enemy (Johnny Grunge & Rocco Rock) by DQ (10:42)",
+        "date": "09.09.1996",
+        "location": " @ Civic Center in Columbus, Georgia, USA",
+        "event title": "WCW Monday NITRO #52",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Faces Of Fear",
+            "Meng",
+            "The Barbarian",
+            "The Public Enemy",
+            "Johnny Grunge",
+            "Rocco Rock"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Nasty Boys (Brian Knobbs & Jerry Sags) defeat The Amazing French Canadians (Carl Ouellet & Jacques Rougeau) (3:27)",
+        "date": "09.09.1996",
+        "location": " @ Civic Center in Columbus, Georgia, USA",
+        "event title": "WCW Monday NITRO #52",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Nasty Boys",
+            "Brian Knobbs",
+            "Jerry Sags",
+            "The Amazing French Canadians",
+            "Carl Ouellet",
+            "Jacques Rougeau"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Scott Norton defeats Sgt. Craig Pittman (3:00)",
+        "date": "09.09.1996",
+        "location": " @ Civic Center in Columbus, Georgia, USA",
+        "event title": "WCW Monday NITRO #52",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Scott Norton",
+            "Sgt. Craig Pittman"
+        ],
+        "match type": "Submission: "
+    },
+    {
+        "match card": "Rey Misterio Jr. (c) defeats Billy Kidman (1:38)",
+        "date": "09.09.1996",
+        "location": " @ Civic Center in Columbus, Georgia, USA",
+        "event title": "WCW Monday NITRO #52",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Rey Misterio Jr.",
+            "Billy Kidman"
+        ],
+        "match type": "WCW World Cruiserweight Title: "
+    },
+    {
+        "match card": "Chris Jericho defeats Dean Malenko (9:01)",
+        "date": "02.09.1996",
+        "location": " @ UTC Arena in Chattanooga, Tennessee, USA",
+        "event title": "WCW Monday NITRO #51",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Chris Jericho",
+            "Dean Malenko"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Diamond Dallas Page defeats Alex Wright (3:44)",
+        "date": "02.09.1996",
+        "location": " @ UTC Arena in Chattanooga, Tennessee, USA",
+        "event title": "WCW Monday NITRO #51",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Diamond Dallas Page",
+            "Alex Wright"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Randy Savage defeats Big Ron Studd (2:44)",
+        "date": "02.09.1996",
+        "location": " @ UTC Arena in Chattanooga, Tennessee, USA",
+        "event title": "WCW Monday NITRO #51",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Randy Savage",
+            "Big Ron Studd"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Four Horsemen (Arn Anderson, Chris Benoit, Ric Flair & Steve McMichael) defeat The Dungeon Of Doom (Big Bubba Rogers, Kevin Sullivan, Meng & The Barbarian) (13:54)",
+        "date": "02.09.1996",
+        "location": " @ UTC Arena in Chattanooga, Tennessee, USA",
+        "event title": "WCW Monday NITRO #51",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Four Horsemen",
+            "Arn Anderson",
+            "Chris Benoit",
+            "Ric Flair",
+            "Steve McMichael",
+            "The Dungeon Of Doom",
+            "Big Bubba Rogers",
+            "Kevin Sullivan",
+            "Meng",
+            "The Barbarian"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Giant defeats Brad Armstrong (3:48)",
+        "date": "02.09.1996",
+        "location": " @ UTC Arena in Chattanooga, Tennessee, USA",
+        "event title": "WCW Monday NITRO #51",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Brad Armstrong"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Steiner Brothers (Rick Steiner & Scott Steiner) defeat Lex Luger & Sting by DQ (0:38)",
+        "date": "02.09.1996",
+        "location": " @ UTC Arena in Chattanooga, Tennessee, USA",
+        "event title": "WCW Monday NITRO #51",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Steiner Brothers",
+            "Rick Steiner",
+            "Scott Steiner",
+            "Lex Luger",
+            "Sting"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Harlem Heat (Booker T & Stevie Ray) (c) defeat Buddy Valentino & Greg Valentine (4:45)",
+        "date": "02.09.1996",
+        "location": " @ UTC Arena in Chattanooga, Tennessee, USA",
+        "event title": "WCW Monday NITRO #51",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Harlem Heat",
+            "Booker T",
+            "Stevie Ray",
+            "Buddy Valentino",
+            "Greg Valentine"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Alex Wright vs. Chris Jericho - No Contest (4:52)",
+        "date": "26.08.1996",
+        "location": " @ Manatee Civic Center in Palmetto, Florida, USA",
+        "event title": "WCW Monday NITRO #50",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Alex Wright",
+            "Chris Jericho"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Arn Anderson & Ric Flair defeat The Rock 'n' Roll Express (Ricky Morton & Robert Gibson) (4:28)",
+        "date": "26.08.1996",
+        "location": " @ Manatee Civic Center in Palmetto, Florida, USA",
+        "event title": "WCW Monday NITRO #50",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Arn Anderson",
+            "Ric Flair",
+            "Ricky Morton",
+            "Robert Gibson"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Big Bubba Rogers & Kevin Sullivan defeat Jim Powers & Marcus Alexander Bagwell (4:20)",
+        "date": "26.08.1996",
+        "location": " @ Manatee Civic Center in Palmetto, Florida, USA",
+        "event title": "WCW Monday NITRO #50",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Big Bubba Rogers",
+            "Kevin Sullivan",
+            "Jim Powers",
+            "Marcus Alexander Bagwell"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Chavo Guerrero Jr. defeats Mike Enos (4:35)",
+        "date": "26.08.1996",
+        "location": " @ Manatee Civic Center in Palmetto, Florida, USA",
+        "event title": "WCW Monday NITRO #50",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Chavo Guerrero Jr.",
+            "Mike Enos"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Chris Benoit & Steve McMichael vs. Lex Luger & Sting - No Contest (5:42)",
+        "date": "26.08.1996",
+        "location": " @ Manatee Civic Center in Palmetto, Florida, USA",
+        "event title": "WCW Monday NITRO #50",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Chris Benoit",
+            "Steve McMichael",
+            "Lex Luger",
+            "Sting"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Juventud Guerrera defeats Billy Kidman (3:40)",
+        "date": "26.08.1996",
+        "location": " @ Manatee Civic Center in Palmetto, Florida, USA",
+        "event title": "WCW Monday NITRO #50",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Juventud Guerrera",
+            "Billy Kidman"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Giant defeats Jim Duggan (4:34)",
+        "date": "26.08.1996",
+        "location": " @ Manatee Civic Center in Palmetto, Florida, USA",
+        "event title": "WCW Monday NITRO #50",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Jim Duggan"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Steiner Brothers (Rick Steiner & Scott Steiner) defeat The Blue Bloods (Earl Robert Eaton & Squire David Taylor) (3:29)",
+        "date": "26.08.1996",
+        "location": " @ Manatee Civic Center in Palmetto, Florida, USA",
+        "event title": "WCW Monday NITRO #50",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Steiner Brothers",
+            "Rick Steiner",
+            "Scott Steiner",
+            "The Blue Bloods",
+            "Earl Robert Eaton",
+            "Squire David Taylor"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Rey Misterio Jr. (c) defeats Mr. JL (14:04)",
+        "date": "26.08.1996",
+        "location": " @ Manatee Civic Center in Palmetto, Florida, USA",
+        "event title": "WCW Monday NITRO #50",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Rey Misterio Jr.",
+            "Mr. JL"
+        ],
+        "match type": "WCW World Cruiserweight Title: "
+    },
+    {
+        "match card": "Chavo Guerrero Jr. defeats Diamond Dallas Page (4:30)",
+        "date": "19.08.1996",
+        "location": " @ Von Braun Civic Center in Huntsville, Alabama, USA",
+        "event title": "WCW Monday NITRO #49",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Chavo Guerrero Jr.",
+            "Diamond Dallas Page"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Chris Benoit defeats Earl Robert Eaton (4:02)",
+        "date": "19.08.1996",
+        "location": " @ Von Braun Civic Center in Huntsville, Alabama, USA",
+        "event title": "WCW Monday NITRO #49",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Chris Benoit",
+            "Earl Robert Eaton"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Dean Malenko defeats Lord Steven Regal",
+        "date": "19.08.1996",
+        "location": " @ Von Braun Civic Center in Huntsville, Alabama, USA",
+        "event title": "WCW Monday NITRO #49",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Dean Malenko",
+            "Lord Steven Regal"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Jim Duggan defeats VK Wallstreet (5:28)",
+        "date": "19.08.1996",
+        "location": " @ Von Braun Civic Center in Huntsville, Alabama, USA",
+        "event title": "WCW Monday NITRO #49",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Jim Duggan",
+            "VK Wallstreet"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Scott Norton defeats Disco Inferno (4:01)",
+        "date": "19.08.1996",
+        "location": " @ Von Braun Civic Center in Huntsville, Alabama, USA",
+        "event title": "WCW Monday NITRO #49",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Scott Norton",
+            "Disco Inferno"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Giant defeats Randy Savage by DQ",
+        "date": "19.08.1996",
+        "location": " @ Von Braun Civic Center in Huntsville, Alabama, USA",
+        "event title": "WCW Monday NITRO #49",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Randy Savage"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Nasty Boys (Brian Knobbs & Jerry Sags) defeat The Public Enemy (Johnny Grunge & Rocco Rock) (4:26)",
+        "date": "19.08.1996",
+        "location": " @ Von Braun Civic Center in Huntsville, Alabama, USA",
+        "event title": "WCW Monday NITRO #49",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Nasty Boys",
+            "Brian Knobbs",
+            "Jerry Sags",
+            "The Public Enemy",
+            "Johnny Grunge",
+            "Rocco Rock"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Harlem Heat (Booker T & Stevie Ray) (c) defeat The American Males (Marcus Alexander Bagwell & Scotty Riggs) (4:10)",
+        "date": "19.08.1996",
+        "location": " @ Von Braun Civic Center in Huntsville, Alabama, USA",
+        "event title": "WCW Monday NITRO #49",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Harlem Heat",
+            "Booker T",
+            "Stevie Ray",
+            "The American Males",
+            "Marcus Alexander Bagwell",
+            "Scotty Riggs"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Chris Benoit defeats Big Ron Studd (3:31)",
+        "date": "12.08.1996",
+        "location": " @ Casper, Wyoming, USA",
+        "event title": "WCW Monday NITRO #48",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Chris Benoit",
+            "Big Ron Studd"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Diamond Dallas Page defeats The Renegade (5:45)",
+        "date": "12.08.1996",
+        "location": " @ Casper, Wyoming, USA",
+        "event title": "WCW Monday NITRO #48",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Diamond Dallas Page",
+            "The Renegade"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Konnan defeats Jim Powers (3:21)",
+        "date": "12.08.1996",
+        "location": " @ Casper, Wyoming, USA",
+        "event title": "WCW Monday NITRO #48",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Konnan",
+            "Jim Powers"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger & Sting vs. The Outsiders (Kevin Nash & Scott Hall) - No Contest (3:40)",
+        "date": "12.08.1996",
+        "location": " @ Casper, Wyoming, USA",
+        "event title": "WCW Monday NITRO #48",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Sting",
+            "The Outsiders",
+            "Kevin Nash",
+            "Scott Hall"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Dungeon Of Doom (Hugh Morrus, Kevin Sullivan, Meng & The Barbarian) defeat High Voltage (Kenny Kaos & Robbie Rage) & Rough 'n' Ready (Dick Slater & Mike Enos) (2:40)",
+        "date": "12.08.1996",
+        "location": " @ Casper, Wyoming, USA",
+        "event title": "WCW Monday NITRO #48",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Dungeon Of Doom",
+            "Hugh Morrus",
+            "Kevin Sullivan",
+            "Meng",
+            "The Barbarian",
+            "High Voltage",
+            "Kenny Kaos",
+            "Robbie Rage",
+            "Dick Slater",
+            "Mike Enos"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Ric Flair (c) defeats Randy Savage (11:43)",
+        "date": "12.08.1996",
+        "location": " @ Casper, Wyoming, USA",
+        "event title": "WCW Monday NITRO #48",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Ric Flair",
+            "Randy Savage"
+        ],
+        "match type": "WCW United States Heavyweight Title: "
+    },
+    {
+        "match card": "Rey Misterio Jr. (c) defeats Ultimate Dragon (4:34)",
+        "date": "12.08.1996",
+        "location": " @ Casper, Wyoming, USA",
+        "event title": "WCW Monday NITRO #48",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Rey Misterio Jr.",
+            "Ultimate Dragon"
+        ],
+        "match type": "WCW World Cruiserweight Title: "
+    },
+    {
+        "match card": "The Steiner Brothers (Rick Steiner & Scott Steiner) defeat Harlem Heat (Booker T & Stevie Ray) (c) by DQ (8:57)",
+        "date": "12.08.1996",
+        "location": " @ Casper, Wyoming, USA",
+        "event title": "WCW Monday NITRO #48",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Steiner Brothers",
+            "Rick Steiner",
+            "Scott Steiner",
+            "Harlem Heat",
+            "Booker T",
+            "Stevie Ray"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Alex Wright defeats Chris Benoit by Count Out (8:20)",
+        "date": "05.08.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #47",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Alex Wright",
+            "Chris Benoit"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger & Sting defeat The Nasty Boys (Brian Knobbs & Jerry Sags) (7:05)",
+        "date": "05.08.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #47",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Sting",
+            "The Nasty Boys",
+            "Brian Knobbs",
+            "Jerry Sags"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Malia Hosaka defeats Madusa (4:39)",
+        "date": "05.08.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #47",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Malia Hosaka",
+            "Madusa"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Randy Savage defeats Lord Steven Regal (6:18)",
+        "date": "05.08.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #47",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Randy Savage",
+            "Lord Steven Regal"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Booty Man defeats Ric Flair (c) by DQ (3:00)",
+        "date": "05.08.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #47",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Booty Man",
+            "Ric Flair"
+        ],
+        "match type": "WCW United States Heavyweight Title: "
+    },
+    {
+        "match card": "The Giant (c) defeats Sgt. Craig Pittman (2:33)",
+        "date": "05.08.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #47",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Sgt. Craig Pittman"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Harlem Heat (Booker T & Stevie Ray) (c) defeat The Rock 'n' Roll Express (Ricky Morton & Robert Gibson)",
+        "date": "05.08.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #47",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Harlem Heat",
+            "Booker T",
+            "Stevie Ray",
+            "Ricky Morton",
+            "Robert Gibson"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Eddie Guerrero defeats Big Bubba Rogers (10:47)",
+        "date": "29.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #46",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Eddie Guerrero",
+            "Big Bubba Rogers"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Jim Duggan defeats Mike Enos (7:30)",
+        "date": "29.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #46",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Jim Duggan",
+            "Mike Enos"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger, Randy Savage & Sting vs. The Four Horsemen (Chris Benoit, Ric Flair & Steve McMichael) - Double Count Out (13:23)",
+        "date": "29.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #46",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Randy Savage",
+            "Sting",
+            "The Four Horsemen",
+            "Chris Benoit",
+            "Ric Flair",
+            "Steve McMichael"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Steiner Brothers (Rick Steiner & Scott Steiner) defeat High Voltage (Kenny Kaos & Robbie Rage) (4:46)",
+        "date": "29.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #46",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Steiner Brothers",
+            "Rick Steiner",
+            "Scott Steiner",
+            "High Voltage",
+            "Kenny Kaos",
+            "Robbie Rage"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Giant (c) defeats Greg Valentine (1:42)",
+        "date": "29.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #46",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Greg Valentine"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Alex Wright, Jim Powers, Joe Gomez & Renegade defeat The Dungeon Of Doom (Hugh Morrus, Kevin Sullivan, The Barbarian & The Leprechaun) by DQ (5:29)",
+        "date": "22.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #45",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Alex Wright",
+            "Jim Powers",
+            "Joe Gomez",
+            "Renegade",
+            "The Dungeon Of Doom",
+            "Hugh Morrus",
+            "Kevin Sullivan",
+            "The Barbarian",
+            "The Leprechaun"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Dean Malenko defeats Chavo Guerrero Jr. (8:10)",
+        "date": "22.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #45",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Dean Malenko",
+            "Chavo Guerrero Jr."
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Diamond Dallas Page defeats Prince Iaukea (1:39)",
+        "date": "22.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #45",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Diamond Dallas Page",
+            "Prince Iaukea"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Eddie Guerrero defeats Psychosis",
+        "date": "22.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #45",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Eddie Guerrero",
+            "Psychosis"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Konnan defeats VK Wallstreet (5:17)",
+        "date": "22.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #45",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Konnan",
+            "VK Wallstreet"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger, Randy Savage & Sting defeat The Four Horsemen (Arn Anderson, Chris Benoit & Steve McMichael) (7:38)",
+        "date": "22.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #45",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Randy Savage",
+            "Sting",
+            "The Four Horsemen",
+            "Arn Anderson",
+            "Chris Benoit",
+            "Steve McMichael"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Meng defeats Ice-Train by DQ (6:20)",
+        "date": "22.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #45",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Meng",
+            "Ice-Train"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Squire David Taylor defeats Scott Norton by DQ (1:45)",
+        "date": "22.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #45",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Squire David Taylor",
+            "Scott Norton"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Dean Malenko defeats Billy Kidman (5:13)",
+        "date": "15.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #44",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Dean Malenko",
+            "Billy Kidman"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Eddie Guerrero defeats Chris Benoit by Count Out (9:38)",
+        "date": "15.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #44",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Eddie Guerrero",
+            "Chris Benoit"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Madusa defeats Malia Hosaka (4:07)",
+        "date": "15.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #44",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Madusa",
+            "Malia Hosaka"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Meng defeats Arn Anderson (10:58)",
+        "date": "15.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #44",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Meng",
+            "Arn Anderson"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Steiner Brothers (Rick Steiner & Scott Steiner) defeat Fire And Ice (Ice-Train & Scott Norton) (10:43)",
+        "date": "15.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #44",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Steiner Brothers",
+            "Rick Steiner",
+            "Scott Steiner",
+            "Fire And Ice",
+            "Ice-Train",
+            "Scott Norton"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Harlem Heat (Booker T & Stevie Ray) (c) defeat Rough 'n' Ready (Dick Slater & Mike Enos) (7:39)",
+        "date": "15.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #44",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Harlem Heat",
+            "Booker T",
+            "Stevie Ray",
+            "Dick Slater",
+            "Mike Enos"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Big Bubba Rogers defeats Lex Luger (c) by DQ (11:30)",
+        "date": "15.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #44",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Big Bubba Rogers",
+            "Lex Luger"
+        ],
+        "match type": "WCW World Television Title: "
+    },
+    {
+        "match card": "Chris Benoit defeats Sgt. Craig Pittman (2:43)",
+        "date": "08.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #43",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Chris Benoit",
+            "Sgt. Craig Pittman"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Eddie Guerrero defeats Psychosis (8:33)",
+        "date": "08.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #43",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Eddie Guerrero",
+            "Psychosis"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Sting defeats Arn Anderson (12:18)",
+        "date": "08.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #43",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sting",
+            "Arn Anderson"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Blue Bloods (Lord Steven Regal & Squire David Taylor) defeat Big Bubba & Hugh Morrus (3:08)",
+        "date": "08.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #43",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Blue Bloods",
+            "Lord Steven Regal",
+            "Squire David Taylor",
+            "Big Bubba",
+            "Hugh Morrus"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Ric Flair (c) defeats Jim Powers (5:41)",
+        "date": "08.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #43",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Ric Flair",
+            "Jim Powers"
+        ],
+        "match type": "WCW United States Heavyweight Title: "
+    },
+    {
+        "match card": "Rey Misterio Jr. defeats Dean Malenko (c) (12:30) - TITLE CHANGE !!!",
+        "date": "08.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #43",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Rey Misterio Jr.",
+            "Dean Malenko"
+        ],
+        "match type": "WCW World Cruiserweight Title: "
+    },
+    {
+        "match card": "The Steiner Brothers (Rick Steiner & Scott Steiner) defeat The Nasty Boys (Brian Knobbs & Jerry Sags) (6:08)",
+        "date": "08.07.1996",
+        "location": " @ Disney/MGM Studios in Orlando, Florida, USA",
+        "event title": "WCW Monday NITRO #43",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Steiner Brothers",
+            "Rick Steiner",
+            "Scott Steiner",
+            "The Nasty Boys",
+            "Brian Knobbs",
+            "Jerry Sags"
+        ],
+        "match type": "WCW World Tag Team Title #1 Contendership: "
+    },
+    {
+        "match card": "Diamond Dallas Page defeats Scotty Riggs (5:42)",
+        "date": "01.07.1996",
+        "location": " @ USAir Arena in Landover, Maryland, USA",
+        "event title": "WCW Monday NITRO #42",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Diamond Dallas Page",
+            "Scotty Riggs"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Disco Inferno defeats Kurasawa (3:45)",
+        "date": "01.07.1996",
+        "location": " @ USAir Arena in Landover, Maryland, USA",
+        "event title": "WCW Monday NITRO #42",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Disco Inferno",
+            "Kurasawa"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Randy Savage defeats Greg Valentine (5:19)",
+        "date": "01.07.1996",
+        "location": " @ USAir Arena in Landover, Maryland, USA",
+        "event title": "WCW Monday NITRO #42",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Randy Savage",
+            "Greg Valentine"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Four Horsemen (Arn Anderson, Chris Benoit, Ric Flair & Steve McMichael) defeat Joe Gomez, The Renegade & The Rock 'n' Roll Express (Ricky Morton & Robert Gibson) (11:51)",
+        "date": "01.07.1996",
+        "location": " @ USAir Arena in Landover, Maryland, USA",
+        "event title": "WCW Monday NITRO #42",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Four Horsemen",
+            "Arn Anderson",
+            "Chris Benoit",
+            "Ric Flair",
+            "Steve McMichael",
+            "Joe Gomez",
+            "The Renegade",
+            "Ricky Morton",
+            "Robert Gibson"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Giant (c) defeats John Tenta (6:37)",
+        "date": "01.07.1996",
+        "location": " @ USAir Arena in Landover, Maryland, USA",
+        "event title": "WCW Monday NITRO #42",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "John Tenta"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Harlem Heat (Booker T & Stevie Ray) (c) defeat The Steiner Brothers (Rick Steiner & Scott Steiner) (10:49)",
+        "date": "01.07.1996",
+        "location": " @ USAir Arena in Landover, Maryland, USA",
+        "event title": "WCW Monday NITRO #42",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Harlem Heat",
+            "Booker T",
+            "Stevie Ray",
+            "The Steiner Brothers",
+            "Rick Steiner",
+            "Scott Steiner"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Arn Anderson & Chris Benoit defeat The Rock 'n' Roll Express (Ricky Morton & Robert Gibson) (9:00)",
+        "date": "24.06.1996",
+        "location": " @ Independence Arena in Charlotte, North Carolina, USA",
+        "event title": "WCW Monday NITRO #41",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Arn Anderson",
+            "Chris Benoit",
+            "Ricky Morton",
+            "Robert Gibson"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Diamond Dallas Page defeats Alex Wright (4:12)",
+        "date": "24.06.1996",
+        "location": " @ Independence Arena in Charlotte, North Carolina, USA",
+        "event title": "WCW Monday NITRO #41",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Diamond Dallas Page",
+            "Alex Wright"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Eddie Guerrero defeats The Barbarian (5:37)",
+        "date": "24.06.1996",
+        "location": " @ Independence Arena in Charlotte, North Carolina, USA",
+        "event title": "WCW Monday NITRO #41",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Eddie Guerrero",
+            "The Barbarian"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Kip Abee defeats Kevin Sullivan by DQ (2:00)",
+        "date": "24.06.1996",
+        "location": " @ Independence Arena in Charlotte, North Carolina, USA",
+        "event title": "WCW Monday NITRO #41",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Kip Abee",
+            "Kevin Sullivan"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Randy Savage defeats VK Wallstreet (4:37)",
+        "date": "24.06.1996",
+        "location": " @ Independence Arena in Charlotte, North Carolina, USA",
+        "event title": "WCW Monday NITRO #41",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Randy Savage",
+            "VK Wallstreet"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Public Enemy (Johnny Grunge & Rocco Rock) defeat The Blue Bloods (Lord Steven Regal & Squire David Taylor) (5:49)",
+        "date": "24.06.1996",
+        "location": " @ Independence Arena in Charlotte, North Carolina, USA",
+        "event title": "WCW Monday NITRO #41",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Public Enemy",
+            "Johnny Grunge",
+            "Rocco Rock",
+            "The Blue Bloods",
+            "Lord Steven Regal",
+            "Squire David Taylor"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Dean Malenko (c) defeats Bobby Walker (4:39)",
+        "date": "24.06.1996",
+        "location": " @ Independence Arena in Charlotte, North Carolina, USA",
+        "event title": "WCW Monday NITRO #41",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Dean Malenko",
+            "Bobby Walker"
+        ],
+        "match type": "WCW World Cruiserweight Title: "
+    },
+    {
+        "match card": "Harlem Heat (Booker T & Stevie Ray) defeat Lex Luger & Sting (c) and The Steiner Brothers (Rick Steiner & Scott Steiner) (10:00) - TITLE CHANGE !!!",
+        "date": "24.06.1996",
+        "location": " @ Independence Arena in Charlotte, North Carolina, USA",
+        "event title": "WCW Monday NITRO #41",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Harlem Heat",
+            "Booker T",
+            "Stevie Ray",
+            "Lex Luger",
+            "Sting",
+            "The Steiner Brothers",
+            "Rick Steiner",
+            "Scott Steiner"
+        ],
+        "match type": "WCW World Tag Team Title Triangle: "
+    },
+    {
+        "match card": "Arn Anderson & Chris Benoit defeat The American Males (Marcus Alexander Bagwell & Scotty Riggs) (5:47)",
+        "date": "17.06.1996",
+        "location": " @ Richmond Coliseum in Richmond, Virginia, USA",
+        "event title": "WCW Monday NITRO #40",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Arn Anderson",
+            "Chris Benoit",
+            "The American Males",
+            "Marcus Alexander Bagwell",
+            "Scotty Riggs"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Joe Gomez defeats Disco Inferno (3:22)",
+        "date": "17.06.1996",
+        "location": " @ Richmond Coliseum in Richmond, Virginia, USA",
+        "event title": "WCW Monday NITRO #40",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Joe Gomez",
+            "Disco Inferno"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "John Tenta defeats Big Bubba (4:41)",
+        "date": "17.06.1996",
+        "location": " @ Richmond Coliseum in Richmond, Virginia, USA",
+        "event title": "WCW Monday NITRO #40",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "John Tenta",
+            "Big Bubba"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Ric Flair defeats Randy Savage (12:46)",
+        "date": "17.06.1996",
+        "location": " @ Richmond Coliseum in Richmond, Virginia, USA",
+        "event title": "WCW Monday NITRO #40",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Ric Flair",
+            "Randy Savage"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Rick Steiner defeats Stevie Ray (2:14)",
+        "date": "17.06.1996",
+        "location": " @ Richmond Coliseum in Richmond, Virginia, USA",
+        "event title": "WCW Monday NITRO #40",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Rick Steiner",
+            "Stevie Ray"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Dean Malenko (c) defeats Rey Misterio Jr. (8:42)",
+        "date": "17.06.1996",
+        "location": " @ Richmond Coliseum in Richmond, Virginia, USA",
+        "event title": "WCW Monday NITRO #40",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Dean Malenko",
+            "Rey Misterio Jr."
+        ],
+        "match type": "WCW World Cruiserweight Title: "
+    },
+    {
+        "match card": "The Giant (c) defeats Scott Steiner (10:00)",
+        "date": "17.06.1996",
+        "location": " @ Richmond Coliseum in Richmond, Virginia, USA",
+        "event title": "WCW Monday NITRO #40",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Scott Steiner"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Diamond Dallas Page defeats Jim Powers (4:04)",
+        "date": "10.06.1996",
+        "location": " @ Civic Center in Wheeling, West Virginia, USA",
+        "event title": "WCW Monday NITRO #39",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Diamond Dallas Page",
+            "Jim Powers"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Jim Duggan defeats Squire David Taylor (2:25)",
+        "date": "10.06.1996",
+        "location": " @ Civic Center in Wheeling, West Virginia, USA",
+        "event title": "WCW Monday NITRO #39",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Jim Duggan",
+            "Squire David Taylor"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lord Steven Regal defeats Billy Kidman (0:57)",
+        "date": "10.06.1996",
+        "location": " @ Civic Center in Wheeling, West Virginia, USA",
+        "event title": "WCW Monday NITRO #39",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lord Steven Regal",
+            "Billy Kidman"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Scott Steiner defeats Booker T (5:54)",
+        "date": "10.06.1996",
+        "location": " @ Civic Center in Wheeling, West Virginia, USA",
+        "event title": "WCW Monday NITRO #39",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Scott Steiner",
+            "Booker T"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Sting defeats Meng (3:09)",
+        "date": "10.06.1996",
+        "location": " @ Civic Center in Wheeling, West Virginia, USA",
+        "event title": "WCW Monday NITRO #39",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sting",
+            "Meng"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Public Enemy (Johnny Grunge & Rocco Rock) defeat The Nasty Boys (Brian Knobbs & Jerry Sags) by DQ (11:30)",
+        "date": "10.06.1996",
+        "location": " @ Civic Center in Wheeling, West Virginia, USA",
+        "event title": "WCW Monday NITRO #39",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Public Enemy",
+            "Johnny Grunge",
+            "Rocco Rock",
+            "The Nasty Boys",
+            "Brian Knobbs",
+            "Jerry Sags"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Giant (c) defeats Scott Norton (1:42)",
+        "date": "10.06.1996",
+        "location": " @ Civic Center in Wheeling, West Virginia, USA",
+        "event title": "WCW Monday NITRO #39",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Scott Norton"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Lex Luger & Sting (c) defeat Arn Anderson & Ric Flair by DQ (18:34)",
+        "date": "10.06.1996",
+        "location": " @ Civic Center in Wheeling, West Virginia, USA",
+        "event title": "WCW Monday NITRO #39",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Sting",
+            "Arn Anderson",
+            "Ric Flair"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Arn Anderson & Ric Flair defeat The Rock 'n' Roll Express (Ricky Morton & Robert Gibson) (18:59)",
+        "date": "03.06.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #38",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Arn Anderson",
+            "Ric Flair",
+            "Ricky Morton",
+            "Robert Gibson"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "John Tenta defeats Big Bubba by Count Out (1:04)",
+        "date": "03.06.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #38",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "John Tenta",
+            "Big Bubba"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Kevin Sullivan defeats Prince Iaukea (1:22)",
+        "date": "03.06.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #38",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Kevin Sullivan",
+            "Prince Iaukea"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lord Steven Regal defeats Jim Duggan (4:21)",
+        "date": "03.06.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #38",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lord Steven Regal",
+            "Jim Duggan"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Scott Norton defeats Hugh Morrus (1:51)",
+        "date": "03.06.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #38",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Scott Norton",
+            "Hugh Morrus"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Sgt. Craig Pittman defeats Disco Inferno (1:50)",
+        "date": "03.06.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #38",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sgt. Craig Pittman",
+            "Disco Inferno"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Faces Of Fear (Meng & The Barbarian) defeat High Voltage (Kenny Kaos & Robbie Rage) (3:23)",
+        "date": "03.06.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #38",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Faces Of Fear",
+            "Meng",
+            "The Barbarian",
+            "High Voltage",
+            "Kenny Kaos",
+            "Robbie Rage"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Giant (c) defeats Ice-Train (0:27)",
+        "date": "03.06.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #38",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Ice-Train"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Lex Luger & Sting (c) vs. The Steiner Brothers (Rick Steiner & Scott Steiner) - No Contest (11:00)",
+        "date": "03.06.1996",
+        "location": " @ Civic Center in Asheville, North Carolina, USA",
+        "event title": "WCW Monday NITRO #38",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Sting",
+            "The Steiner Brothers",
+            "Rick Steiner",
+            "Scott Steiner"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Arn Anderson & Ric Flair defeat The American Males (Marcus Alexander Bagwell & Scotty Riggs) (12:59)",
+        "date": "27.05.1996",
+        "location": " @ Macon Coliseum in Macon, Georgia, USA",
+        "event title": "WCW Monday NITRO #37",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Arn Anderson",
+            "Ric Flair",
+            "The American Males",
+            "Marcus Alexander Bagwell",
+            "Scotty Riggs"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Bobby Walker defeats Brad Armstrong (4:26)",
+        "date": "27.05.1996",
+        "location": " @ Macon Coliseum in Macon, Georgia, USA",
+        "event title": "WCW Monday NITRO #37",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Bobby Walker",
+            "Brad Armstrong"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Diamond Dallas Page defeats Sgt. Craig Pittman (3:01)",
+        "date": "27.05.1996",
+        "location": " @ Macon Coliseum in Macon, Georgia, USA",
+        "event title": "WCW Monday NITRO #37",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Diamond Dallas Page",
+            "Sgt. Craig Pittman"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lord Steven Regal defeats Alex Wright (10:18)",
+        "date": "27.05.1996",
+        "location": " @ Macon Coliseum in Macon, Georgia, USA",
+        "event title": "WCW Monday NITRO #37",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lord Steven Regal",
+            "Alex Wright"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Scott Steiner vs. Sting - Double DQ (10:16)",
+        "date": "27.05.1996",
+        "location": " @ Macon Coliseum in Macon, Georgia, USA",
+        "event title": "WCW Monday NITRO #37",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Scott Steiner",
+            "Sting"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Steve Doll vs. The Mauler - No Contest (5:00)",
+        "date": "27.05.1996",
+        "location": " @ Macon Coliseum in Macon, Georgia, USA",
+        "event title": "WCW Monday NITRO #37",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Steve Doll",
+            "The Mauler"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Giant (c) defeats Shark (4:01)",
+        "date": "27.05.1996",
+        "location": " @ Macon Coliseum in Macon, Georgia, USA",
+        "event title": "WCW Monday NITRO #37",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Shark"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Lex Luger (c) defeats Maxx (5:45)",
+        "date": "27.05.1996",
+        "location": " @ Macon Coliseum in Macon, Georgia, USA",
+        "event title": "WCW Monday NITRO #37",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Maxx"
+        ],
+        "match type": "WCW World Television Title: "
+    },
+    {
+        "match card": "Diamond Dallas Page defeats Brad Armstrong (7:47)",
+        "date": "20.05.1996",
+        "location": " @ Monroe, Louisiana, USA",
+        "event title": "WCW Monday NITRO #36",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Diamond Dallas Page",
+            "Brad Armstrong"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Fire And Ice (Ice-Train & Scott Norton) vs. The Steiner Brothers (Rick Steiner & Scott Steiner) - Double Count Out (5:29)",
+        "date": "20.05.1996",
+        "location": " @ Monroe, Louisiana, USA",
+        "event title": "WCW Monday NITRO #36",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Fire And Ice",
+            "Ice-Train",
+            "Scott Norton",
+            "The Steiner Brothers",
+            "Rick Steiner",
+            "Scott Steiner"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Ric Flair defeats Eddie Guerrero (19:43)",
+        "date": "20.05.1996",
+        "location": " @ Monroe, Louisiana, USA",
+        "event title": "WCW Monday NITRO #36",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Ric Flair",
+            "Eddie Guerrero"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Giant (c) defeats Arn Anderson (3:38)",
+        "date": "20.05.1996",
+        "location": " @ Monroe, Louisiana, USA",
+        "event title": "WCW Monday NITRO #36",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Arn Anderson"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Lex Luger & Sting (c) defeat The Faces Of Fear (Meng & The Barbarian) (10:52)",
+        "date": "20.05.1996",
+        "location": " @ Monroe, Louisiana, USA",
+        "event title": "WCW Monday NITRO #36",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Sting",
+            "The Faces Of Fear",
+            "Meng",
+            "The Barbarian"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Chris Benoit defeats Squire David Taylor (4:18)",
+        "date": "13.05.1996",
+        "location": " @ Municipal Auditorium in Nashville, Tennessee, USA",
+        "event title": "WCW Monday NITRO #35",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Chris Benoit",
+            "Squire David Taylor"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Ric Flair defeats VK Wallstreet (6:23)",
+        "date": "13.05.1996",
+        "location": " @ Municipal Auditorium in Nashville, Tennessee, USA",
+        "event title": "WCW Monday NITRO #35",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Ric Flair",
+            "VK Wallstreet"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Steiner Brothers (Rick Steiner & Scott Steiner) defeat The Public Enemy (Johnny Grunge & Rocco Rock) (6:55)",
+        "date": "13.05.1996",
+        "location": " @ Municipal Auditorium in Nashville, Tennessee, USA",
+        "event title": "WCW Monday NITRO #35",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Steiner Brothers",
+            "Rick Steiner",
+            "Scott Steiner",
+            "The Public Enemy",
+            "Johnny Grunge",
+            "Rocco Rock"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Giant (c) vs. Lex Luger - Double Count Out (4:05)",
+        "date": "13.05.1996",
+        "location": " @ Municipal Auditorium in Nashville, Tennessee, USA",
+        "event title": "WCW Monday NITRO #35",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Lex Luger"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Dean Malenko defeats Jushin Thunder Liger (8:50)",
+        "date": "06.05.1996",
+        "location": " @ Ocean Center in Daytona Beach, Florida, USA",
+        "event title": "WCW Monday NITRO #34",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Dean Malenko",
+            "Jushin Thunder Liger"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Hugh Morrus defeats Randy Savage by DQ",
+        "date": "06.05.1996",
+        "location": " @ Ocean Center in Daytona Beach, Florida, USA",
+        "event title": "WCW Monday NITRO #34",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Hugh Morrus",
+            "Randy Savage"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Sting defeats Lord Steven Regal",
+        "date": "06.05.1996",
+        "location": " @ Ocean Center in Daytona Beach, Florida, USA",
+        "event title": "WCW Monday NITRO #34",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sting",
+            "Lord Steven Regal"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Giant (c) defeats Jim Duggan",
+        "date": "06.05.1996",
+        "location": " @ Ocean Center in Daytona Beach, Florida, USA",
+        "event title": "WCW Monday NITRO #34",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Jim Duggan"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Chris Benoit defeats Eddie Guerrero (7:30)",
+        "date": "22.04.1996",
+        "location": " @ Civic Center in Albany, Georgia, USA",
+        "event title": "WCW Monday NITRO #32",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Chris Benoit",
+            "Eddie Guerrero"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Jim Duggan defeats Meng (6:00)",
+        "date": "22.04.1996",
+        "location": " @ Civic Center in Albany, Georgia, USA",
+        "event title": "WCW Monday NITRO #32",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Jim Duggan",
+            "Meng"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The American Males (Marcus Alexander Bagwell & Scotty Riggs) defeat The Public Enemy (Johnny Grunge & Rocco Rock) by DQ (7:23)",
+        "date": "22.04.1996",
+        "location": " @ Civic Center in Albany, Georgia, USA",
+        "event title": "WCW Monday NITRO #32",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The American Males",
+            "Marcus Alexander Bagwell",
+            "Scotty Riggs",
+            "The Public Enemy",
+            "Johnny Grunge",
+            "Rocco Rock"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Steiner Brothers (Rick Steiner & Scott Steiner) defeat Fire And Ice (Ice-Train & Scott Norton) (3:25)",
+        "date": "22.04.1996",
+        "location": " @ Civic Center in Albany, Georgia, USA",
+        "event title": "WCW Monday NITRO #33",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Steiner Brothers",
+            "Rick Steiner",
+            "Scott Steiner",
+            "Fire And Ice",
+            "Ice-Train",
+            "Scott Norton"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger (c) [TV/TT] & Sting (c) [TT] defeat Ric Flair (c) [WCW] & The Giant by DQ (7:25)",
+        "date": "22.04.1996",
+        "location": " @ Civic Center in Albany, Georgia, USA",
+        "event title": "WCW Monday NITRO #32",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Sting",
+            "Ric Flair",
+            "The Giant"
+        ],
+        "match type": "WCW World Heavyweight Title / WCW World Television Title / WCW World Tag Team Title All Titles On The Line: "
+    },
+    {
+        "match card": "Lord Steven Regal defeats The Belfast Bruiser (6:13)",
+        "date": "22.04.1996",
+        "location": " @ Civic Center in Albany, Georgia, USA",
+        "event title": "WCW Monday NITRO #33",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lord Steven Regal",
+            "The Belfast Bruiser"
+        ],
+        "match type": "Parking Lot Brawl: "
+    },
+    {
+        "match card": "The Giant defeats Ric Flair (c) (5:49) - TITLE CHANGE !!!",
+        "date": "22.04.1996",
+        "location": " @ Civic Center in Albany, Georgia, USA",
+        "event title": "WCW Monday NITRO #33",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Ric Flair"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Lex Luger & Sting (c) defeat Harlem Heat (Booker T & Stevie Ray) (10:45)",
+        "date": "22.04.1996",
+        "location": " @ Civic Center in Albany, Georgia, USA",
+        "event title": "WCW Monday NITRO #33",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Sting",
+            "Harlem Heat",
+            "Booker T",
+            "Stevie Ray"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Randy Savage defeats Earl Robert Eaton (3:57)",
+        "date": "15.04.1996",
+        "location": " @ Civic Center in Charleston, West Virginia, USA",
+        "event title": "WCW Monday NITRO #31",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Randy Savage",
+            "Earl Robert Eaton"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Nasty Boys (Brian Knobbs & Jerry Sags) defeat The Public Enemy (Johnny Grunge & Rocco Rock) (9:17)",
+        "date": "15.04.1996",
+        "location": " @ Civic Center in Charleston, West Virginia, USA",
+        "event title": "WCW Monday NITRO #31",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Nasty Boys",
+            "Brian Knobbs",
+            "Jerry Sags",
+            "The Public Enemy",
+            "Johnny Grunge",
+            "Rocco Rock"
+        ],
+        "match type": "Falls Count Anywhere Tag Team Street Fight: "
+    },
+    {
+        "match card": "Hulk Hogan defeats Arn Anderson & Kevin Sullivan (4:12)",
+        "date": "15.04.1996",
+        "location": " @ Civic Center in Charleston, West Virginia, USA",
+        "event title": "WCW Monday NITRO #31",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Hulk Hogan",
+            "Arn Anderson",
+            "Kevin Sullivan"
+        ],
+        "match type": "Two On One Handicap: "
+    },
+    {
+        "match card": "Lex Luger & Sting (c) defeat Ric Flair & The Giant by DQ (10:34)",
+        "date": "15.04.1996",
+        "location": " @ Civic Center in Charleston, West Virginia, USA",
+        "event title": "WCW Monday NITRO #31",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Sting",
+            "Ric Flair",
+            "The Giant"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Hulk Hogan & The Booty Man defeat Arn Anderson & Kevin Sullivan (7:43)",
+        "date": "01.04.1996",
+        "location": " @ Convocation Center in Cleveland, Ohio, USA",
+        "event title": "WCW Monday NITRO #30",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Hulk Hogan",
+            "The Booty Man",
+            "Arn Anderson",
+            "Kevin Sullivan"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Giant defeats Sting by DQ (3:00)",
+        "date": "01.04.1996",
+        "location": " @ Convocation Center in Cleveland, Ohio, USA",
+        "event title": "WCW Monday NITRO #30",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Sting"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Steiner Brothers (Rick Steiner & Scott Steiner) defeat The Nasty Boys (Brian Knobbs & Jerry Sags) and The Road Warriors (Road Warrior Animal & Road Warrior Hawk) (15:00)",
+        "date": "01.04.1996",
+        "location": " @ Convocation Center in Cleveland, Ohio, USA",
+        "event title": "WCW Monday NITRO #30",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Steiner Brothers",
+            "Rick Steiner",
+            "Scott Steiner",
+            "The Nasty Boys",
+            "Brian Knobbs",
+            "Jerry Sags",
+            "The Road Warriors",
+            "Road Warrior Animal",
+            "Road Warrior Hawk"
+        ],
+        "match type": "Tag Team Triangle: "
+    },
+    {
+        "match card": "Ric Flair (c) defeats Lex Luger (10:57)",
+        "date": "01.04.1996",
+        "location": " @ Convocation Center in Cleveland, Ohio, USA",
+        "event title": "WCW Monday NITRO #30",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Ric Flair",
+            "Lex Luger"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Randy Savage defeats The Belfast Bruiser (5:05)",
+        "date": "25.03.1996",
+        "location": " @ Von Braun Civic Center in Huntsville, Alabama, USA",
+        "event title": "WCW Monday NITRO #29",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Randy Savage",
+            "The Belfast Bruiser"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Booty Man defeats Disco Inferno (1:14)",
+        "date": "25.03.1996",
+        "location": " @ Von Braun Civic Center in Huntsville, Alabama, USA",
+        "event title": "WCW Monday NITRO #29",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Booty Man",
+            "Disco Inferno"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Konnan (c) defeats Mr. JL (6:19)",
+        "date": "25.03.1996",
+        "location": " @ Von Braun Civic Center in Huntsville, Alabama, USA",
+        "event title": "WCW Monday NITRO #29",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Konnan",
+            "Mr. JL"
+        ],
+        "match type": "WCW United States Heavyweight Title: "
+    },
+    {
+        "match card": "Ric Flair (c) vs. The Giant - No Contest (8:56)",
+        "date": "25.03.1996",
+        "location": " @ Von Braun Civic Center in Huntsville, Alabama, USA",
+        "event title": "WCW Monday NITRO #29",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Ric Flair",
+            "The Giant"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Lex Luger & Sting (c) defeat The American Males (Marcus Alexander Bagwell & Scotty Riggs) (6:20)",
+        "date": "25.03.1996",
+        "location": " @ Von Braun Civic Center in Huntsville, Alabama, USA",
+        "event title": "WCW Monday NITRO #29",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Sting",
+            "The American Males",
+            "Marcus Alexander Bagwell",
+            "Scotty Riggs"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "The Booty Man defeats Arn Anderson (5:42)",
+        "date": "18.03.1996",
+        "location": " @ UTC Arena in Chattanooga, Tennessee, USA",
+        "event title": "WCW Monday NITRO #28",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Booty Man",
+            "Arn Anderson"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Road Warriors (Road Warrior Animal & Road Warrior Hawk) defeat The Nasty Boys (Brian Knobbs & Jerry Sags)",
+        "date": "18.03.1996",
+        "location": " @ UTC Arena in Chattanooga, Tennessee, USA",
+        "event title": "WCW Monday NITRO #28",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Road Warriors",
+            "Road Warrior Animal",
+            "Road Warrior Hawk",
+            "The Nasty Boys",
+            "Brian Knobbs",
+            "Jerry Sags"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Steiner Brothers (Rick Steiner & Scott Steiner) defeat The Public Enemy (Johnny Grunge & Rocco Rock) (7:03)",
+        "date": "18.03.1996",
+        "location": " @ UTC Arena in Chattanooga, Tennessee, USA",
+        "event title": "WCW Monday NITRO #28",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Steiner Brothers",
+            "Rick Steiner",
+            "Scott Steiner",
+            "The Public Enemy",
+            "Johnny Grunge",
+            "Rocco Rock"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Hulk Hogan & Randy Savage defeat Kevin Sullivan & Ric Flair by DQ (10:09)",
+        "date": "18.03.1996",
+        "location": " @ UTC Arena in Chattanooga, Tennessee, USA",
+        "event title": "WCW Monday NITRO #28",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Hulk Hogan",
+            "Randy Savage",
+            "Kevin Sullivan",
+            "Ric Flair"
+        ],
+        "match type": "Texas Tornado: "
+    },
+    {
+        "match card": "Lex Luger (c) defeats Loch Ness by Count Out (0:13)",
+        "date": "18.03.1996",
+        "location": " @ UTC Arena in Chattanooga, Tennessee, USA",
+        "event title": "WCW Monday NITRO #28",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Loch Ness"
+        ],
+        "match type": "WCW World Television Title: "
+    },
+    {
+        "match card": "The Giant defeats Jim Duggan (6:30)",
+        "date": "11.03.1996",
+        "location": " @ Memorial Auditorium in Winston-Salem, North Carolina, USA",
+        "event title": "WCW Monday NITRO #27",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Jim Duggan"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Road Warriors (Road Warrior Animal & Road Warrior Hawk) defeat The Steiner Brothers (Rick Steiner & Scott Steiner) (10:10)",
+        "date": "11.03.1996",
+        "location": " @ Memorial Auditorium in Winston-Salem, North Carolina, USA",
+        "event title": "WCW Monday NITRO #27",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Road Warriors",
+            "Road Warrior Animal",
+            "Road Warrior Hawk",
+            "The Steiner Brothers",
+            "Rick Steiner",
+            "Scott Steiner"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Hulk Hogan, Randy Savage & The Booty Man defeat Arn Anderson, Kevin Sullivan & Ric Flair (6:29)",
+        "date": "11.03.1996",
+        "location": " @ Memorial Auditorium in Winston-Salem, North Carolina, USA",
+        "event title": "WCW Monday NITRO #27",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Hulk Hogan",
+            "Randy Savage",
+            "The Booty Man",
+            "Arn Anderson",
+            "Kevin Sullivan",
+            "Ric Flair"
+        ],
+        "match type": "Lumberjack Strap: "
+    },
+    {
+        "match card": "Lex Luger (c) defeats Alex Wright (6:37)",
+        "date": "11.03.1996",
+        "location": " @ Memorial Auditorium in Winston-Salem, North Carolina, USA",
+        "event title": "WCW Monday NITRO #27",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Alex Wright"
+        ],
+        "match type": "WCW World Television Title: "
+    },
+    {
+        "match card": "Hulk Hogan, Randy Savage & The Booty Man defeat Arn Anderson, Kevin Sullivan & Ric Flair (12:05)",
+        "date": "26.02.1996",
+        "location": " @ Civic Center in Knoxville, Tennessee, USA",
+        "event title": "WCW Monday NITRO #26",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Hulk Hogan",
+            "Randy Savage",
+            "The Booty Man",
+            "Arn Anderson",
+            "Kevin Sullivan",
+            "Ric Flair"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger defeats The Renegade (5:47)",
+        "date": "26.02.1996",
+        "location": " @ Civic Center in Knoxville, Tennessee, USA",
+        "event title": "WCW Monday NITRO #26",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "The Renegade"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Sting defeats Big Bubba Rogers (7:14)",
+        "date": "26.02.1996",
+        "location": " @ Civic Center in Knoxville, Tennessee, USA",
+        "event title": "WCW Monday NITRO #26",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sting",
+            "Big Bubba Rogers"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Road Warriors (Road Warrior Animal & Road Warrior Hawk) defeat Harlem Heat (Booker T & Stevie Ray) (7:54)",
+        "date": "26.02.1996",
+        "location": " @ Civic Center in Knoxville, Tennessee, USA",
+        "event title": "WCW Monday NITRO #26",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Road Warriors",
+            "Road Warrior Animal",
+            "Road Warrior Hawk",
+            "Harlem Heat",
+            "Booker T",
+            "Stevie Ray"
+        ],
+        "match type": "WCW World Tag Team Title #1 Contendership: "
+    },
+    {
+        "match card": "Arn Anderson defeats Hulk Hogan by DQ (7:02)",
+        "date": "19.02.1996",
+        "location": " @ Wicomico Civic Center in Salisbury, Maryland, USA",
+        "event title": "WCW Monday NITRO #25",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Arn Anderson",
+            "Hulk Hogan"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Loch Ness defeats Alex Wright (2:21)",
+        "date": "19.02.1996",
+        "location": " @ Wicomico Civic Center in Salisbury, Maryland, USA",
+        "event title": "WCW Monday NITRO #25",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Loch Ness",
+            "Alex Wright"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Belfast Bruiser defeats Brad Armstrong (6:47)",
+        "date": "19.02.1996",
+        "location": " @ Wicomico Civic Center in Salisbury, Maryland, USA",
+        "event title": "WCW Monday NITRO #25",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Belfast Bruiser",
+            "Brad Armstrong"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Ric Flair (c) defeats Randy Savage (11:23)",
+        "date": "19.02.1996",
+        "location": " @ Wicomico Civic Center in Salisbury, Maryland, USA",
+        "event title": "WCW Monday NITRO #25",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Ric Flair",
+            "Randy Savage"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Arn Anderson defeats Hulk Hogan (9:16)",
+        "date": "12.02.1996",
+        "location": " @ Florida State Fair in Tampa, Florida, USA",
+        "event title": "WCW Monday NITRO #24",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Arn Anderson",
+            "Hulk Hogan"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Loch Ness defeats Scotty Riggs (1:08)",
+        "date": "12.02.1996",
+        "location": " @ Florida State Fair in Tampa, Florida, USA",
+        "event title": "WCW Monday NITRO #24",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Loch Ness",
+            "Scotty Riggs"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Randy Savage defeats Hugh Morrus (4:52)",
+        "date": "12.02.1996",
+        "location": " @ Florida State Fair in Tampa, Florida, USA",
+        "event title": "WCW Monday NITRO #24",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Randy Savage",
+            "Hugh Morrus"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Konnan (c) defeats Devon Storm (5:19)",
+        "date": "12.02.1996",
+        "location": " @ Florida State Fair in Tampa, Florida, USA",
+        "event title": "WCW Monday NITRO #24",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Konnan",
+            "Devon Storm"
+        ],
+        "match type": "WCW United States Heavyweight Title: "
+    },
+    {
+        "match card": "Arn Anderson & Brian Pillman defeat Hugh Morrus & The Taskmaster by DQ (7:17)",
+        "date": "05.02.1996",
+        "location": " @ Jenkins Arena in Lakeland, Florida, USA",
+        "event title": "WCW Monday NITRO #23",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Arn Anderson",
+            "Brian Pillman",
+            "Hugh Morrus",
+            "The Taskmaster"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Ric Flair defeats Marcus Alexander Bagwell (7:01)",
+        "date": "05.02.1996",
+        "location": " @ Jenkins Arena in Lakeland, Florida, USA",
+        "event title": "WCW Monday NITRO #23",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Ric Flair",
+            "Marcus Alexander Bagwell"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Randy Savage (c) defeats Chris Benoit by DQ (8:17)",
+        "date": "05.02.1996",
+        "location": " @ Jenkins Arena in Lakeland, Florida, USA",
+        "event title": "WCW Monday NITRO #23",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Randy Savage",
+            "Chris Benoit"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Lex Luger & Sting (c) defeat The Road Warriors (Road Warrior Animal & Road Warrior Hawk) (8:37)",
+        "date": "05.02.1996",
+        "location": " @ Jenkins Arena in Lakeland, Florida, USA",
+        "event title": "WCW Monday NITRO #23",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Sting",
+            "The Road Warriors",
+            "Road Warrior Animal",
+            "Road Warrior Hawk"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Ric Flair defeats Hulk Hogan (13:00)",
+        "date": "29.01.1996",
+        "location": " @ Civic Center in Canton, Ohio, USA",
+        "event title": "WCW Monday NITRO #22",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Ric Flair",
+            "Hulk Hogan"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Sister Sherri defeats Madusa (1:48)",
+        "date": "29.01.1996",
+        "location": " @ Civic Center in Canton, Ohio, USA",
+        "event title": "WCW Monday NITRO #22",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sister Sherri",
+            "Madusa"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Road Warriors (Road Warrior Animal & Road Warrior Hawk) defeat The Faces Of Fear (Meng & The Barbarian) (9:06)",
+        "date": "29.01.1996",
+        "location": " @ Civic Center in Canton, Ohio, USA",
+        "event title": "WCW Monday NITRO #22",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Road Warriors",
+            "Road Warrior Animal",
+            "Road Warrior Hawk",
+            "The Faces Of Fear",
+            "Meng",
+            "The Barbarian"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Giant defeats Randy Savage (c) by DQ (0:28)",
+        "date": "29.01.1996",
+        "location": " @ Civic Center in Canton, Ohio, USA",
+        "event title": "WCW Monday NITRO #22",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Randy Savage"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Brian Pillman defeats Dean Malenko (6:20)",
+        "date": "22.01.1996",
+        "location": " @ Caesar's Palace in Las Vegas, Nevada, USA",
+        "event title": "WCW Monday NITRO #21",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Brian Pillman",
+            "Dean Malenko"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Hulk Hogan defeats The One Man Gang (3:03)",
+        "date": "22.01.1996",
+        "location": " @ Caesar's Palace in Las Vegas, Nevada, USA",
+        "event title": "WCW Monday NITRO #21",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Hulk Hogan",
+            "The One Man Gang"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Randy Savage defeats Ric Flair (c) (8:35) - TITLE CHANGE !!!",
+        "date": "22.01.1996",
+        "location": " @ Caesar's Palace in Las Vegas, Nevada, USA",
+        "event title": "WCW Monday NITRO #21",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Randy Savage",
+            "Ric Flair"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Lex Luger & Sting defeat Harlem Heat (Booker T & Stevie Ray) (c) (9:33) - TITLE CHANGE !!!",
+        "date": "22.01.1996",
+        "location": " @ Caesar's Palace in Las Vegas, Nevada, USA",
+        "event title": "WCW Monday NITRO #21",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Sting",
+            "Harlem Heat",
+            "Booker T",
+            "Stevie Ray"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Hulk Hogan defeats Meng (4:41)",
+        "date": "15.01.1996",
+        "location": " @ Knight Center in Miami, Florida, USA",
+        "event title": "WCW Monday NITRO #20",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Hulk Hogan",
+            "Meng"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger defeats Randy Savage (5:10)",
+        "date": "15.01.1996",
+        "location": " @ Knight Center in Miami, Florida, USA",
+        "event title": "WCW Monday NITRO #20",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Randy Savage"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Public Enemy (Johnny Grunge & Rocco Rock) defeat The American Males (Marcus Alexander Bagwell & Scotty Riggs) (3:28)",
+        "date": "15.01.1996",
+        "location": " @ Knight Center in Miami, Florida, USA",
+        "event title": "WCW Monday NITRO #20",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Public Enemy",
+            "Johnny Grunge",
+            "Rocco Rock",
+            "The American Males",
+            "Marcus Alexander Bagwell",
+            "Scotty Riggs"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Ric Flair (c) defeats Sting (12:00)",
+        "date": "15.01.1996",
+        "location": " @ Knight Center in Miami, Florida, USA",
+        "event title": "WCW Monday NITRO #20",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Ric Flair",
+            "Sting"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Chris Benoit defeats Alex Wright (6:40)",
+        "date": "08.01.1996",
+        "location": " @ North Charleston Coliseum in Charleston, South Carolina, USA",
+        "event title": "WCW Monday NITRO #19",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Chris Benoit",
+            "Alex Wright"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Eddie Guerrero defeats Lord Steven Regal (8:08)",
+        "date": "08.01.1996",
+        "location": " @ North Charleston Coliseum in Charleston, South Carolina, USA",
+        "event title": "WCW Monday NITRO #19",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Eddie Guerrero",
+            "Lord Steven Regal"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Hulk Hogan & Randy Savage defeat Arn Anderson & Ric Flair (15:00)",
+        "date": "08.01.1996",
+        "location": " @ North Charleston Coliseum in Charleston, South Carolina, USA",
+        "event title": "WCW Monday NITRO #19",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Hulk Hogan",
+            "Randy Savage",
+            "Arn Anderson",
+            "Ric Flair"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Sting defeats Diamond Dallas Page (6:20)",
+        "date": "08.01.1996",
+        "location": " @ North Charleston Coliseum in Charleston, South Carolina, USA",
+        "event title": "WCW Monday NITRO #19",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sting",
+            "Diamond Dallas Page"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger & Sting defeat The Super Assassins (Super Assassin #1 & Super Assassin #2) (5:52)",
+        "date": "01.01.1996",
+        "location": " @ Omni in Atlanta, Georgia, USA",
+        "event title": "WCW Monday NITRO #18",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Sting",
+            "The Super Assassins",
+            "Super Assassin #1",
+            "Super Assassin #2"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lord Steven Regal defeats Chris Benoit (5:42)",
+        "date": "01.01.1996",
+        "location": " @ Omni in Atlanta, Georgia, USA",
+        "event title": "WCW Monday NITRO #18",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lord Steven Regal",
+            "Chris Benoit"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Randy Savage defeats Arn Anderson (6:55)",
+        "date": "01.01.1996",
+        "location": " @ Omni in Atlanta, Georgia, USA",
+        "event title": "WCW Monday NITRO #18",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Randy Savage",
+            "Arn Anderson"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Hulk Hogan defeats Ric Flair (c) by DQ (7:55)",
+        "date": "01.01.1996",
+        "location": " @ Omni in Atlanta, Georgia, USA",
+        "event title": "WCW Monday NITRO #18",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Hulk Hogan",
+            "Ric Flair"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Lex Luger defeats Marcus Alexander Bagwell (3:08)",
+        "date": "18.12.1995",
+        "location": " @ Civic Center in Augusta, Georgia, USA",
+        "event title": "WCW Monday NITRO #16",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Marcus Alexander Bagwell"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Ric Flair defeats Eddie Guerrero (7:36)",
+        "date": "18.12.1995",
+        "location": " @ Civic Center in Augusta, Georgia, USA",
+        "event title": "WCW Monday NITRO #16",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Ric Flair",
+            "Eddie Guerrero"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Sting defeats Earl Robert Eaton (3:59)",
+        "date": "18.12.1995",
+        "location": " @ Civic Center in Augusta, Georgia, USA",
+        "event title": "WCW Monday NITRO #16",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sting",
+            "Earl Robert Eaton"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Dean Malenko defeats Mr. JL (3:43)",
+        "date": "18.12.1995",
+        "location": " @ Civic Center in Augusta, Georgia, USA",
+        "event title": "WCW Monday NITRO #17",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Dean Malenko",
+            "Mr. JL"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger defeats Scotty Riggs (6:23)",
+        "date": "18.12.1995",
+        "location": " @ Civic Center in Augusta, Georgia, USA",
+        "event title": "WCW Monday NITRO #17",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Scotty Riggs"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Sting defeats Big Bubba Rogers (5:15)",
+        "date": "18.12.1995",
+        "location": " @ Civic Center in Augusta, Georgia, USA",
+        "event title": "WCW Monday NITRO #17",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sting",
+            "Big Bubba Rogers"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Giant defeats Randy Savage (c) by DQ (7:30)",
+        "date": "18.12.1995",
+        "location": " @ Civic Center in Augusta, Georgia, USA",
+        "event title": "WCW Monday NITRO #16",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Randy Savage"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Randy Savage (c) defeats Ric Flair by DQ (14:25)",
+        "date": "18.12.1995",
+        "location": " @ Civic Center in Augusta, Georgia, USA",
+        "event title": "WCW Monday NITRO #17",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Randy Savage",
+            "Ric Flair"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Eddie Guerrero defeats Mr. JL (4:30)",
+        "date": "11.12.1995",
+        "location": " @ Independence Arena in Charlotte, North Carolina, USA",
+        "event title": "WCW Monday NITRO #15",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Eddie Guerrero",
+            "Mr. JL"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Hulk Hogan & Sting defeat The Four Horsemen (Arn Anderson & Ric Flair) (13:25)",
+        "date": "11.12.1995",
+        "location": " @ Independence Arena in Charlotte, North Carolina, USA",
+        "event title": "WCW Monday NITRO #15",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Hulk Hogan",
+            "Sting",
+            "The Four Horsemen",
+            "Arn Anderson",
+            "Ric Flair"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger defeats Jim Duggan (2:44)",
+        "date": "11.12.1995",
+        "location": " @ Independence Arena in Charlotte, North Carolina, USA",
+        "event title": "WCW Monday NITRO #15",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Jim Duggan"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Paul Orndorff defeats Disco Inferno (2:23)",
+        "date": "11.12.1995",
+        "location": " @ Independence Arena in Charlotte, North Carolina, USA",
+        "event title": "WCW Monday NITRO #15",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Paul Orndorff",
+            "Disco Inferno"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Sting defeats Kurasawa (2:38)",
+        "date": "04.12.1995",
+        "location": " @ America West Arena in Phoenix, Arizona, USA",
+        "event title": "WCW Monday NITRO #14",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sting",
+            "Kurasawa"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Giant defeats Scott Norton (2:43)",
+        "date": "04.12.1995",
+        "location": " @ America West Arena in Phoenix, Arizona, USA",
+        "event title": "WCW Monday NITRO #14",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Scott Norton"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger defeats Randy Savage (c) by DQ (13:56)",
+        "date": "04.12.1995",
+        "location": " @ America West Arena in Phoenix, Arizona, USA",
+        "event title": "WCW Monday NITRO #14",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Randy Savage"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Harlem Heat (Booker T & Stevie Ray) (c) defeat The American Males (Marcus Alexander Bagwell & Scotty Riggs) (7:47)",
+        "date": "04.12.1995",
+        "location": " @ America West Arena in Phoenix, Arizona, USA",
+        "event title": "WCW Monday NITRO #14",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Harlem Heat",
+            "Booker T",
+            "Stevie Ray",
+            "The American Males",
+            "Marcus Alexander Bagwell",
+            "Scotty Riggs"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Akira Hokuto & Bull Nakano defeat Cutie Suzuki & Mayumi Ozaki (5:24)",
+        "date": "27.11.1995",
+        "location": " @ Salem Civic Center in Salem, Virginia, USA",
+        "event title": "WCW Monday NITRO #13",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Akira Hokuto",
+            "Bull Nakano",
+            "Cutie Suzuki",
+            "Mayumi Ozaki"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Hulk Hogan defeats Hugh Morrus (3:41)",
+        "date": "27.11.1995",
+        "location": " @ Salem Civic Center in Salem, Virginia, USA",
+        "event title": "WCW Monday NITRO #13",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Hulk Hogan",
+            "Hugh Morrus"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger & Sting defeat The Four Horsemen (Arn Anderson & Brian Pillman) (5:36)",
+        "date": "27.11.1995",
+        "location": " @ Salem Civic Center in Salem, Virginia, USA",
+        "event title": "WCW Monday NITRO #13",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Sting",
+            "The Four Horsemen",
+            "Arn Anderson",
+            "Brian Pillman"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Johnny B. Badd (c) defeats Diamond Dallas Page (2:10)",
+        "date": "27.11.1995",
+        "location": " @ Salem Civic Center in Salem, Virginia, USA",
+        "event title": "WCW Monday NITRO #13",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Johnny B. Badd",
+            "Diamond Dallas Page"
+        ],
+        "match type": "WCW World Television Title: "
+    },
+    {
+        "match card": "Eddie Guerrero defeats Brian Pillman (6:27)",
+        "date": "20.11.1995",
+        "location": " @ Macon Coliseum in Macon, Georgia, USA",
+        "event title": "WCW Monday NITRO #12",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Eddie Guerrero",
+            "Brian Pillman"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Hulk Hogan vs. Sting - No Contest (9:31)",
+        "date": "20.11.1995",
+        "location": " @ Macon Coliseum in Macon, Georgia, USA",
+        "event title": "WCW Monday NITRO #12",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Hulk Hogan",
+            "Sting"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Road Warrior Hawk defeats Big Bubba (3:48)",
+        "date": "20.11.1995",
+        "location": " @ Macon Coliseum in Macon, Georgia, USA",
+        "event title": "WCW Monday NITRO #12",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Road Warrior Hawk",
+            "Big Bubba"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Scott Norton defeats Shark (1:44)",
+        "date": "20.11.1995",
+        "location": " @ Macon Coliseum in Macon, Georgia, USA",
+        "event title": "WCW Monday NITRO #12",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Scott Norton",
+            "Shark"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Eddie Guerrero defeats Chris Benoit (6:29)",
+        "date": "06.11.1995",
+        "location": " @ Jacksonville Coliseum in Jacksonville, Florida, USA",
+        "event title": "WCW Monday NITRO #10",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Eddie Guerrero",
+            "Chris Benoit"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Taskmaster defeats The Renegade (2:47)",
+        "date": "06.11.1995",
+        "location": " @ Jacksonville Coliseum in Jacksonville, Florida, USA",
+        "event title": "WCW Monday NITRO #10",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Taskmaster",
+            "The Renegade"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Chris Benoit defeats Kensuke Sasaki (2:40)",
+        "date": "06.11.1995",
+        "location": " @ Jacksonville Coliseum in Jacksonville, Florida, USA",
+        "event title": "WCW Monday NITRO #11",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Chris Benoit",
+            "Kensuke Sasaki"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Randy Savage defeats Meng (4:51)",
+        "date": "06.11.1995",
+        "location": " @ Jacksonville Coliseum in Jacksonville, Florida, USA",
+        "event title": "WCW Monday NITRO #11",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Randy Savage",
+            "Meng"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Sting defeats Dean Malenko (7:00)",
+        "date": "06.11.1995",
+        "location": " @ Jacksonville Coliseum in Jacksonville, Florida, USA",
+        "event title": "WCW Monday NITRO #11",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sting",
+            "Dean Malenko"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Sting (c) defeats Ric Flair (9:42)",
+        "date": "06.11.1995",
+        "location": " @ Jacksonville Coliseum in Jacksonville, Florida, USA",
+        "event title": "WCW Monday NITRO #10",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sting",
+            "Ric Flair"
+        ],
+        "match type": "WCW United States Heavyweight Title: "
+    },
+    {
+        "match card": "The Giant (c) defeats Cobra (0:16)",
+        "date": "06.11.1995",
+        "location": " @ Jacksonville Coliseum in Jacksonville, Florida, USA",
+        "event title": "WCW Monday NITRO #10",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Giant",
+            "Cobra"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Johnny B. Badd (c) vs. Eddie Guerrero (10:00) - Time Limit Draw",
+        "date": "06.11.1995",
+        "location": " @ Jacksonville Coliseum in Jacksonville, Florida, USA",
+        "event title": "WCW Monday NITRO #11",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Johnny B. Badd",
+            "Eddie Guerrero"
+        ],
+        "match type": "WCW World Television Title: "
+    },
+    {
+        "match card": "Eddie Guerrero defeats Sgt. Craig Pittman (5:34)",
+        "date": "30.10.1995",
+        "location": " @ Hara Arena in Dayton, Ohio, USA",
+        "event title": "WCW Monday NITRO #9",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Eddie Guerrero",
+            "Sgt. Craig Pittman"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger & Meng defeat The American Males (Marcus Alexander Bagwell & Scotty Riggs) (7:00)",
+        "date": "30.10.1995",
+        "location": " @ Hara Arena in Dayton, Ohio, USA",
+        "event title": "WCW Monday NITRO #9",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Meng",
+            "The American Males",
+            "Marcus Alexander Bagwell",
+            "Scotty Riggs"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Sabu defeats Disco Inferno (2:26)",
+        "date": "30.10.1995",
+        "location": " @ Hara Arena in Dayton, Ohio, USA",
+        "event title": "WCW Monday NITRO #9",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sabu",
+            "Disco Inferno"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Scott Norton vs. Shark - Double Count Out (2:47)",
+        "date": "30.10.1995",
+        "location": " @ Hara Arena in Dayton, Ohio, USA",
+        "event title": "WCW Monday NITRO #9",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Scott Norton",
+            "Shark"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Eddie Guerrero & Mr. JL defeat Chris Benoit & Dean Malenko (10:00)",
+        "date": "23.10.1995",
+        "location": " @ Von Braun Civic Center in Huntsville, Alabama, USA",
+        "event title": "WCW Monday NITRO #8",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Eddie Guerrero",
+            "Mr. JL",
+            "Chris Benoit",
+            "Dean Malenko"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger & Sting defeat Harlem Heat (Booker T & Stevie Ray) (8:00)",
+        "date": "23.10.1995",
+        "location": " @ Von Braun Civic Center in Huntsville, Alabama, USA",
+        "event title": "WCW Monday NITRO #8",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Sting",
+            "Harlem Heat",
+            "Booker T",
+            "Stevie Ray"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Randy Savage defeats Kurasawa (8:00)",
+        "date": "23.10.1995",
+        "location": " @ Von Braun Civic Center in Huntsville, Alabama, USA",
+        "event title": "WCW Monday NITRO #8",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Randy Savage",
+            "Kurasawa"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Chris Benoit defeats Eddie Guerrero (8:36)",
+        "date": "16.10.1995",
+        "location": " @ Albany Civic Center in Albany, Georgia, USA",
+        "event title": "WCW Monday NITRO #7",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Chris Benoit",
+            "Eddie Guerrero"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Meng defeats Jim Duggan (1:52)",
+        "date": "16.10.1995",
+        "location": " @ Albany Civic Center in Albany, Georgia, USA",
+        "event title": "WCW Monday NITRO #7",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Meng",
+            "Jim Duggan"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Ric Flair & Sting defeat The Four Horsemen (Arn Anderson & Brian Pillman) by Count Out (7:03)",
+        "date": "16.10.1995",
+        "location": " @ Albany Civic Center in Albany, Georgia, USA",
+        "event title": "WCW Monday NITRO #7",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Ric Flair",
+            "Sting",
+            "The Four Horsemen",
+            "Arn Anderson",
+            "Brian Pillman"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Johnny B. Badd defeats Diamond Dallas Page (c) by DQ",
+        "date": "16.10.1995",
+        "location": " @ Albany Civic Center in Albany, Georgia, USA",
+        "event title": "WCW Monday NITRO #7",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Johnny B. Badd",
+            "Diamond Dallas Page"
+        ],
+        "match type": "WCW World Television Title: "
+    },
+    {
+        "match card": "Big Bubba Rogers defeats Road Warrior Hawk by Count Out (1:39)",
+        "date": "09.10.1995",
+        "location": " @ Rosemont Horizon in Chicago, Illinois, USA",
+        "event title": "WCW Monday NITRO #6",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Big Bubba Rogers",
+            "Road Warrior Hawk"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Sabu defeats Mr. JL (4:28)",
+        "date": "09.10.1995",
+        "location": " @ Rosemont Horizon in Chicago, Illinois, USA",
+        "event title": "WCW Monday NITRO #6",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sabu",
+            "Mr. JL"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Arn Anderson defeats Ric Flair (4:44)",
+        "date": "09.10.1995",
+        "location": " @ Rosemont Horizon in Chicago, Illinois, USA",
+        "event title": "WCW Monday NITRO #6",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Arn Anderson",
+            "Ric Flair"
+        ],
+        "match type": "Steel Cage: "
+    },
+    {
+        "match card": "Sting (c) defeats Shark (1:17)",
+        "date": "09.10.1995",
+        "location": " @ Rosemont Horizon in Chicago, Illinois, USA",
+        "event title": "WCW Monday NITRO #6",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sting",
+            "Shark"
+        ],
+        "match type": "WCW United States Heavyweight Title: "
+    },
+    {
+        "match card": "Eddie Guerrero defeats Dean Malenko (5:29)",
+        "date": "02.10.1995",
+        "location": " @ Denver Coliseum in Denver, Colorado, USA",
+        "event title": "WCW Monday NITRO #5",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Eddie Guerrero",
+            "Dean Malenko"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Ric Flair defeats Arn Anderson (8:17)",
+        "date": "02.10.1995",
+        "location": " @ Denver Coliseum in Denver, Colorado, USA",
+        "event title": "WCW Monday NITRO #5",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Ric Flair",
+            "Arn Anderson"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Lex Luger defeats Randy Savage",
+        "date": "02.10.1995",
+        "location": " @ Denver Coliseum in Denver, Colorado, USA",
+        "event title": "WCW Monday NITRO #5",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Lex Luger",
+            "Randy Savage"
+        ],
+        "match type": "If Luger Loses He Must Leave WCW: "
+    },
+    {
+        "match card": "Alex Wright defeats Disco Inferno (4:00)",
+        "date": "25.09.1995",
+        "location": " @ Florence Civic Center in Florence, South Carolina, USA",
+        "event title": "WCW Monday NITRO #4",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Alex Wright",
+            "Disco Inferno"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Kurasawa defeats Sgt. Craig Pittman (4:26)",
+        "date": "25.09.1995",
+        "location": " @ Florence Civic Center in Florence, South Carolina, USA",
+        "event title": "WCW Monday NITRO #4",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Kurasawa",
+            "Sgt. Craig Pittman"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Meng defeats Lex Luger (6:46)",
+        "date": "25.09.1995",
+        "location": " @ Florence Civic Center in Florence, South Carolina, USA",
+        "event title": "WCW Monday NITRO #4",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Meng",
+            "Lex Luger"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The Taskmaster defeats Randy Savage by DQ (2:58)",
+        "date": "25.09.1995",
+        "location": " @ Florence Civic Center in Florence, South Carolina, USA",
+        "event title": "WCW Monday NITRO #4",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The Taskmaster",
+            "Randy Savage"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Paul Orndorff defeats Johnny B. Badd (6:40)",
+        "date": "18.09.1995",
+        "location": " @ Freedom Hall in Johnson City, Tennessee, USA",
+        "event title": "WCW Monday NITRO #3",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Paul Orndorff",
+            "Johnny B. Badd"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Ric Flair defeats Flyin' Brian (5:24)",
+        "date": "18.09.1995",
+        "location": " @ Freedom Hall in Johnson City, Tennessee, USA",
+        "event title": "WCW Monday NITRO #3",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Ric Flair"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "The American Males (Marcus Alexander Bagwell & Scotty Riggs) defeat Harlem Heat (Booker T & Stevie Ray) (c) (4:40) - TITLE CHANGE !!!",
+        "date": "18.09.1995",
+        "location": " @ Freedom Hall in Johnson City, Tennessee, USA",
+        "event title": "WCW Monday NITRO #3",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "The American Males",
+            "Marcus Alexander Bagwell",
+            "Scotty Riggs",
+            "Harlem Heat",
+            "Booker T",
+            "Stevie Ray"
+        ],
+        "match type": "WCW World Tag Team Title: "
+    },
+    {
+        "match card": "Alex Wright defeats Sabu by DQ (3:58)",
+        "date": "11.09.1995",
+        "location": " @ Knight Center in Miami, Florida, USA",
+        "event title": "WCW Monday NITRO #2",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Alex Wright",
+            "Sabu"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Randy Savage defeats Scott Norton (5:39)",
+        "date": "11.09.1995",
+        "location": " @ Knight Center in Miami, Florida, USA",
+        "event title": "WCW Monday NITRO #2",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Randy Savage",
+            "Scott Norton"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Sting (c) defeats VK Wallstreet (4:13)",
+        "date": "11.09.1995",
+        "location": " @ Knight Center in Miami, Florida, USA",
+        "event title": "WCW Monday NITRO #2",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sting",
+            "VK Wallstreet"
+        ],
+        "match type": "WCW United States Heavyweight Title: "
+    },
+    {
+        "match card": "Hulk Hogan (c) defeats Lex Luger by DQ (5:28)",
+        "date": "11.09.1995",
+        "location": " @ Knight Center in Miami, Florida, USA",
+        "event title": "WCW Monday NITRO #2",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Hulk Hogan",
+            "Lex Luger"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    },
+    {
+        "match card": "Flyin' Brian defeats Jushin Thunder Liger (6:52)",
+        "date": "04.09.1995",
+        "location": " @ Mall of America in Bloomington, Minnesota, USA",
+        "event title": "WCW Monday NITRO #1",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Jushin Thunder Liger"
+        ],
+        "match type": ""
+    },
+    {
+        "match card": "Sting (c) vs. Ric Flair (8:43) - No Contest",
+        "date": "04.09.1995",
+        "location": " @ Mall of America in Bloomington, Minnesota, USA",
+        "event title": "WCW Monday NITRO #1",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Sting",
+            "Ric Flair"
+        ],
+        "match type": "WCW United States Heavyweight Title: "
+    },
+    {
+        "match card": "Hulk Hogan (c) defeats Big Bubba Rogers (7:08)",
+        "date": "04.09.1995",
+        "location": " @ Mall of America in Bloomington, Minnesota, USA",
+        "event title": "WCW Monday NITRO #1",
+        "promotion": "World Championship Wrestling",
+        "wrestlers": [
+            "Hulk Hogan",
+            "Big Bubba Rogers"
+        ],
+        "match type": "WCW World Heavyweight Title: "
+    }
+]

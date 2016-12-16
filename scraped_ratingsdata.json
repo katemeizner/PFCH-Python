@@ -1,0 +1,817 @@
+[
+    {
+        "Date": "\nDate",
+        "Nitro Rating": "\nNitro",
+        "Raw Rating": "\nRAW"
+    },
+    {
+        "Date": "\n5/3/99",
+        "Nitro Rating": "\n3.4 (4.0 / 3.4 / 2.8)",
+        "Raw Rating": "\n6.4 (5.9 / 6.9)"
+    },
+    {
+        "Date": "\n4/26/99",
+        "Nitro Rating": "\n3.9 (4.3 / 3.9 / 3.4)",
+        "Raw Rating": "\n6.0 (5.8 / 6.1)"
+    },
+    {
+        "Date": "\n4/19/99",
+        "Nitro Rating": "\n4.1 (4.2 / 4.0 / 4.2)",
+        "Raw Rating": "\n6.1 (5.7 / 6.4)"
+    },
+    {
+        "Date": "\n4/12/99",
+        "Nitro Rating": "\n4.4 (4.4 / 4.1 / 4.6)",
+        "Raw Rating": "\n6.3 (6.3 / 6.2)"
+    },
+    {
+        "Date": "\n4/5/99",
+        "Nitro Rating": "\n4.3 (4.2 / 4.2 / 4.5)",
+        "Raw Rating": "\n5.8 (5.5 / 6.1)"
+    },
+    {
+        "Date": "\n3/29/99",
+        "Nitro Rating": "\n3.55 (4.3 / 3.1 / 3.2)",
+        "Raw Rating": "\n6.5 (6.6 / 6.4)"
+    },
+    {
+        "Date": "\n3/22/99",
+        "Nitro Rating": "\n4.0 (4.8 / 3.6 / 3.5)",
+        "Raw Rating": "\n6.4 (6.4 / 6.4)"
+    },
+    {
+        "Date": "\n3/15/99",
+        "Nitro Rating": "\n4.3 (4.8 / 4.3 / 3.8)",
+        "Raw Rating": "\n5.8 (5.8 / 5.8)"
+    },
+    {
+        "Date": "\n3/8/99",
+        "Nitro Rating": "\n4.4 (4.96 / 4.11 / 4.13)",
+        "Raw Rating": "\n6.46 (6.47 / 6.44)"
+    },
+    {
+        "Date": "\n3/1/99",
+        "Nitro Rating": "\n4.3 (5.1 / 3.7 / 4.0)",
+        "Raw Rating": "\n6.35 (6.4 / 6.35)"
+    },
+    {
+        "Date": "\n2/22/99",
+        "Nitro Rating": "\n4.8 (5.1 / 4.4 / 4.7)",
+        "Raw Rating": "\n5.6 (5.5 / 5.6)"
+    },
+    {
+        "Date": "\n2/15/99",
+        "Nitro Rating": "\n3.9 (4.7 / 3.4 / 3.7)",
+        "Raw Rating": "\n5.9 (6.1 / 5.7)"
+    },
+    {
+        "Date": "\n2/8/99",
+        "Nitro Rating": "\n5.7 (5.2 / 6.0 / 5.9)",
+        "Raw Rating": "\n4.3 (3.8 / 4.8) (Saturday)"
+    },
+    {
+        "Date": "\n2/1/99",
+        "Nitro Rating": "\n4.7 (5.5 / 4.3 / 4.2)",
+        "Raw Rating": "\n5.9 (5.6 / 5.9)"
+    },
+    {
+        "Date": "\n1/25/99",
+        "Nitro Rating": "\n5.0 (5.3 / 4.6 / 5.1)",
+        "Raw Rating": "\n5.5 (5.7 / 5.2)"
+    },
+    {
+        "Date": "\n1/18/99",
+        "Nitro Rating": "\n4.4 (5.8 / 4.5 / 4.3)",
+        "Raw Rating": "\n5.5 (5.3 / 5.8)"
+    },
+    {
+        "Date": "\n1/11/99",
+        "Nitro Rating": "\n5.0 (5.9 / 4.9 / 4.3)",
+        "Raw Rating": "\n5.5 (5.5 / 5.5)"
+    },
+    {
+        "Date": "\n1/4/99",
+        "Nitro Rating": "\n5.0 (5.5 / 4.6 / 4.8)",
+        "Raw Rating": "\n5.8 (5.7 / 5.8)"
+    },
+    {
+        "Date": "\n12/28/98",
+        "Nitro Rating": "\n4.6 (4.8 / 4.4 / 4.6)",
+        "Raw Rating": "\n4.9 (4.3 / 5.4)"
+    },
+    {
+        "Date": "\n12/21/98",
+        "Nitro Rating": "\n4.0 (4.7 / 3.8 / 3.6)",
+        "Raw Rating": "\n4.7 (4.4 / 5.0)"
+    },
+    {
+        "Date": "\n12/14/98",
+        "Nitro Rating": "\n4.2 (4.8 / 3.9 / 4.0)",
+        "Raw Rating": "\n5.2 (5.3 / 5.1)"
+    },
+    {
+        "Date": "\n12/7/98",
+        "Nitro Rating": "\n4.2 (4.8 / 3.8 / 3.9)",
+        "Raw Rating": "\n5.2 (5.1 / 5.2)"
+    },
+    {
+        "Date": "\n11/30/98",
+        "Nitro Rating": "\n4.2 (5.0 / 3.8 / 4.1)",
+        "Raw Rating": "\n5.0 (4.8 / 5.2)"
+    },
+    {
+        "Date": "\n11/23/98",
+        "Nitro Rating": "\n4.5 (5.0 / 4.4 / 4.1)",
+        "Raw Rating": "\n4.9 (4.7 / 5.0)"
+    },
+    {
+        "Date": "\n11/16/98",
+        "Nitro Rating": "\n4.3 (5.0 / 3.9 / 3.9)",
+        "Raw Rating": "\n5.5 (5.4 / 5.6)"
+    },
+    {
+        "Date": "\n11/9/98",
+        "Nitro Rating": "\n4.1 (4.8 / 3.6 / 3.8)",
+        "Raw Rating": "\n5.0 (4.9 / 5.1)"
+    },
+    {
+        "Date": "\n11/2/98",
+        "Nitro Rating": "\n4.1 (4.8 / 3.7 / 3.8)",
+        "Raw Rating": "\n4.8 (4.7 / 4.9)"
+    },
+    {
+        "Date": "\n10/26/98",
+        "Nitro Rating": "\n5.1 (5.7 / 5.2 / 4.4)",
+        "Raw Rating": "\n4.5 (4.4 / 4.6)"
+    },
+    {
+        "Date": "\n10/19/98",
+        "Nitro Rating": "\n4.4 (4.8 / 3.9 / 4.4)",
+        "Raw Rating": "\n5.0 (5.0 / 5.0)"
+    },
+    {
+        "Date": "\n10/12/98",
+        "Nitro Rating": "\n4.7 (5.3 / 4.3 / 4.4)",
+        "Raw Rating": "\n4.8 (4.7 / 4.9)"
+    },
+    {
+        "Date": "\n10/5/98 ",
+        "Nitro Rating": "\n4.53 (4.8 / 4.3 / 4.5)",
+        "Raw Rating": "\n4.55 (4.5 / 4.6)"
+    },
+    {
+        "Date": "\n9/28/98 ",
+        "Nitro Rating": "\n4.0 (4.2 / 3.9 / 3.9)",
+        "Raw Rating": "\n4.7 (4.4 / 4.9)"
+    },
+    {
+        "Date": "\n9/21/98 ",
+        "Nitro Rating": "\n3.9 (4.3 / 3.6 / 3.8)",
+        "Raw Rating": "\n4.0 (4.2 / 3.8)"
+    },
+    {
+        "Date": "\n9/14/98 ",
+        "Nitro Rating": "\n4.5 (4.8 / 4.0 / 4.8)",
+        "Raw Rating": "\n4.0 (3.9 / 4.1)"
+    },
+    {
+        "Date": "\n9/7/98 ",
+        "Nitro Rating": "\n5.5 (5.0 / 5.6 / 5.9)",
+        "Raw Rating": "\n\u2014"
+    },
+    {
+        "Date": "\n8/31/98 ",
+        "Nitro Rating": "\n6.0 (5.1 / 6.6 / 6.4)",
+        "Raw Rating": "\n\u2014"
+    },
+    {
+        "Date": "\n8/24/98",
+        "Nitro Rating": "\n5.2 (5.5 / 4.9 / 5.2)",
+        "Raw Rating": "\n4.7 (4.5 / 4.9)"
+    },
+    {
+        "Date": "\n8/17/98",
+        "Nitro Rating": "\n4.7 (5.0 / 5.0 / 4.9)",
+        "Raw Rating": "\n4.2 (3.9 / 4.4)"
+    },
+    {
+        "Date": "\n8/10/98",
+        "Nitro Rating": "\n4.66 (4.7 / 4.6 / 4.7)",
+        "Raw Rating": "\n4.55 (4.3 / 4.8)"
+    },
+    {
+        "Date": "\n8/3/98",
+        "Nitro Rating": "\n4.2 (4.3 / 4.0 / 4.3)",
+        "Raw Rating": "\n4.8 (4.5 / 5.2)"
+    },
+    {
+        "Date": "\n7/27/98",
+        "Nitro Rating": "\n4.7 (4.6 / 4.7 / 4.7)",
+        "Raw Rating": "\n4.9 (4.2 / 5.5)"
+    },
+    {
+        "Date": "\n7/20/98",
+        "Nitro Rating": "\n4.4 (4.7 / 4.2 / 4.2)",
+        "Raw Rating": "\n5.0 (4.6 / 5.4)"
+    },
+    {
+        "Date": "\n7/13/98",
+        "Nitro Rating": "\n4.46 (4.7 / 4.0 / 4.7)",
+        "Raw Rating": "\n4.65 (4.4 / 4.9)"
+    },
+    {
+        "Date": "\n7/6/98",
+        "Nitro Rating": "\n4.8 (4.4 / 4.5 / 5.6)",
+        "Raw Rating": "\n4.0 (3.6 / 4.4)"
+    },
+    {
+        "Date": "\n6/29/98",
+        "Nitro Rating": "\n4.1 (4.0 / 3.8 / 4.1)",
+        "Raw Rating": "\n5.4 (5.2 / 5.6)"
+    },
+    {
+        "Date": "\n6/22/98",
+        "Nitro Rating": "\n4.1 (4.0 / 4.0 / 4.2)",
+        "Raw Rating": "\n4.3 (4.1 / 4.5)"
+    },
+    {
+        "Date": "\n6/15/98",
+        "Nitro Rating": "\n4.0 (3.8 / 4.1 / 4.2)",
+        "Raw Rating": "\n4.3 (4.1 / 4.5)"
+    },
+    {
+        "Date": "\n6/8/98",
+        "Nitro Rating": "\n4.1 (4.3 / 4.0 / 4.0)",
+        "Raw Rating": "\n4.3 (4.1 / 4.5)"
+    },
+    {
+        "Date": "\n6/1/98",
+        "Nitro Rating": "\n3.75 (4.0 / 3.4 / 3.8)",
+        "Raw Rating": "\n4.35 (4.3 / 4.4)"
+    },
+    {
+        "Date": "\n5/25/98",
+        "Nitro Rating": "\n4.2 (4.1 / 4.2 / 4.3)",
+        "Raw Rating": "\n4.2 (4.1 / 4.3)"
+    },
+    {
+        "Date": "\n5/18/98",
+        "Nitro Rating": "\n2.5",
+        "Raw Rating": "\n5.4 (5.3 / 5.4)"
+    },
+    {
+        "Date": "\n5/11/98",
+        "Nitro Rating": "\n4.35 (4.5 / 4.2 / 4.1)",
+        "Raw Rating": "\n4.75 (4.6 / 4.9)"
+    },
+    {
+        "Date": "\n5/4/98",
+        "Nitro Rating": "\n3.5 (2.5 / 4.4)",
+        "Raw Rating": "\n5.5 (5.5 / 5.5)"
+    },
+    {
+        "Date": "\n4/27/98",
+        "Nitro Rating": "\n2.3 (1.69 / 2.87) Tues-\n\t\t2.3",
+        "Raw Rating": "\n5.71 (5.5 / 5.9)"
+    },
+    {
+        "Date": "\n4/20/98",
+        "Nitro Rating": "\n5.1 (5.2 / 5.0 / 5.1)",
+        "Raw Rating": "\n4.4 (4.3 / 4.4)"
+    },
+    {
+        "Date": "\n4/13/98",
+        "Nitro Rating": "\n4.3 (4.2 / 4.4 / 4.4)",
+        "Raw Rating": "\n4.6 (4.3 / 4.9)"
+    },
+    {
+        "Date": "\n4/6/98",
+        "Nitro Rating": "\n4.6 (4.7 / 4.7 / 4.5)",
+        "Raw Rating": "\n4.4 (4.3 / 4.5)"
+    },
+    {
+        "Date": "\n3/30/98",
+        "Nitro Rating": "\n4.2 (4.6 / 3.9 / 4.1)",
+        "Raw Rating": "\n3.8 (4.0 / 3.6)"
+    },
+    {
+        "Date": "\n3/23/98",
+        "Nitro Rating": "\n4.6 (4.9 / 4.7 / 4.4)",
+        "Raw Rating": "\n3.6 (3.6 / 3.7)"
+    },
+    {
+        "Date": "\n3/16/98",
+        "Nitro Rating": "\n5.6 (4.8 / 5.6 / 6.3)",
+        "Raw Rating": "\nTuesday Night 4.4 (4.2 /\n\t\t4.6)"
+    },
+    {
+        "Date": "\n3/9/98",
+        "Nitro Rating": "\n4.9 (5.0 / 4.8 / 5.1)",
+        "Raw Rating": "\n3.55 (3.5 / 3.6)"
+    },
+    {
+        "Date": "\n8/25/97",
+        "Nitro Rating": "\n5.0 (4.3 / 5.7)",
+        "Raw Rating": "\nFriday Nights Main Event\n\t\t1.6"
+    },
+    {
+        "Date": "\n8/18/97",
+        "Nitro Rating": "\n4.0 (3.7 / 4.3 )",
+        "Raw Rating": "\n3.2 (2.9 / 3.4)"
+    },
+    {
+        "Date": "\n8/11/97",
+        "Nitro Rating": "\n3.8 (3.8 / 3.8)",
+        "Raw Rating": "\n2.9 (2.5 / 3.4)"
+    },
+    {
+        "Date": "\n8/4/97",
+        "Nitro Rating": "\n4.36 (4.2 / 4.4 / 4.5)",
+        "Raw Rating": "\n2.6 (2.6 / 2.9)"
+    },
+    {
+        "Date": "\n7/21/97",
+        "Nitro Rating": "\nTuesday Nitro 3.75 (3.5 /\n\t\t4.0) ",
+        "Raw Rating": "\n4.05 (3.8 / 4.3)"
+    },
+    {
+        "Date": "\n7/14/97",
+        "Nitro Rating": "\n3.5 (3.2 / 3.9)",
+        "Raw Rating": "\n2.6 (2.4 / 2.9)"
+    },
+    {
+        "Date": "\n7/7/97",
+        "Nitro Rating": "\n3.4 (3.2 / 3.6)",
+        "Raw Rating": "\n2.5 (2.5 / 2.5)"
+    },
+    {
+        "Date": "\n6/30/97",
+        "Nitro Rating": "\n3.3 (3.0 / 3.6)",
+        "Raw Rating": "\n2.5 (2.5 / 2.5)"
+    },
+    {
+        "Date": "\n6/23/97",
+        "Nitro Rating": "\n3.2 (2.6 / 3.9)",
+        "Raw Rating": "\n2.4 (2.3 / 2.5)"
+    },
+    {
+        "Date": "\n6/16/97",
+        "Nitro Rating": "\n3.3 (2.8 / 3.8)",
+        "Raw Rating": "\n2.4 (2.4 / 2.4)"
+    },
+    {
+        "Date": "\n6/9/97",
+        "Nitro Rating": "\n3.4 (3.0 / 3.8)",
+        "Raw Rating": "\n2.2 (2.2 / 2.3)"
+    },
+    {
+        "Date": "\n6/2/97",
+        "Nitro Rating": "\n3.3 (2.9 / 3.7)",
+        "Raw Rating": "\n2.5 (2.3 / 2.6)"
+    },
+    {
+        "Date": "\n5/26/97",
+        "Nitro Rating": "\n3.2 (3.4 / 3.0)",
+        "Raw Rating": "\n2.7 (2.3 / 3.1)"
+    },
+    {
+        "Date": "\n5/19/97",
+        "Nitro Rating": "\n3.1",
+        "Raw Rating": "\n3.6 (3.4 / 3.8)"
+    },
+    {
+        "Date": "\n5/12/97",
+        "Nitro Rating": "\n2.8",
+        "Raw Rating": "\n3.2 (3.0 / 3.4)"
+    },
+    {
+        "Date": "\n5/5/97",
+        "Nitro Rating": "\n2.6",
+        "Raw Rating": "\n3.4 (3.3 / 3.5)"
+    },
+    {
+        "Date": "\n4/28/97",
+        "Nitro Rating": "\n2.7",
+        "Raw Rating": "\n3.4 (3.3 / 3.5)"
+    },
+    {
+        "Date": "\n4/21/97",
+        "Nitro Rating": "\n3.3 (2.75 / 3.9)",
+        "Raw Rating": "\n2.75 (2.75 / 2.75)"
+    },
+    {
+        "Date": "\n4/14/97",
+        "Nitro Rating": "\n3.45 (3.1 / 3.8)",
+        "Raw Rating": "\n2.2 (2.1 / 2.3)"
+    },
+    {
+        "Date": "\n4/7/97",
+        "Nitro Rating": "\n3.65 (3.4 / 3.9)",
+        "Raw Rating": "\n2.2 (2.0 / 2.4)"
+    },
+    {
+        "Date": "\n3/31/97",
+        "Nitro Rating": "\n3.5 (3.5 / 3.5)",
+        "Raw Rating": "\n2.7 (2.7 / 2.7)"
+    },
+    {
+        "Date": "\n3/24/97",
+        "Nitro Rating": "\n3.0 (2.9 / 3.1)",
+        "Raw Rating": "\n2.5 (2.4 / 2.6)"
+    },
+    {
+        "Date": "\n3/17/97",
+        "Nitro Rating": "\n3.55 (3.4 / 3.7)",
+        "Raw Rating": "\n2.35 (2.2 / 2.5)"
+    },
+    {
+        "Date": "\n2/24/97",
+        "Nitro Rating": "\n2.95 (2.7 / 3.2)",
+        "Raw Rating": "\n2.45 (2.4 / 2.5)"
+    },
+    {
+        "Date": "\n2/17/97",
+        "Nitro Rating": "\n2.9 (2.6 / 3.1)",
+        "Raw Rating": "\n2.1 (2.2 / 2.0)"
+    },
+    {
+        "Date": "\n2/10/97",
+        "Nitro Rating": "\n3.8 (3.4 / 4.2)",
+        "Raw Rating": "\nThursday Raw Thursday 2.7"
+    },
+    {
+        "Date": "\n2/3/97",
+        "Nitro Rating": "\n3.0 (2.7 / 3.4)",
+        "Raw Rating": "\n2.6 (2.6 / 2.6)"
+    },
+    {
+        "Date": "\n1/27/97",
+        "Nitro Rating": "\n3.6 (2.8 / 4.4)",
+        "Raw Rating": "\n2.2"
+    },
+    {
+        "Date": "\n1/20/97",
+        "Nitro Rating": "\n3.7 (3.0 / 4.4)",
+        "Raw Rating": "\n2.2"
+    },
+    {
+        "Date": "\n1/13/97",
+        "Nitro Rating": "\n3.4 (2.6 / 4.2)",
+        "Raw Rating": "\n2.3"
+    },
+    {
+        "Date": "\n1/6/97",
+        "Nitro Rating": "\n3.4 (2.9 / 3.9)",
+        "Raw Rating": "\n2.1"
+    },
+    {
+        "Date": "\n12/30/96",
+        "Nitro Rating": "\n3.5 (3.0 / 4.1)",
+        "Raw Rating": "\n1.6"
+    },
+    {
+        "Date": "\n12/23/96",
+        "Nitro Rating": "\n3.2 (2.8 / 3.5)",
+        "Raw Rating": "\n1.5"
+    },
+    {
+        "Date": "\n12/16/96",
+        "Nitro Rating": "\n3.4 (2.6 / 3.8)",
+        "Raw Rating": "\n2.3"
+    },
+    {
+        "Date": "\n12/9/96",
+        "Nitro Rating": "\n3.1 (2.9 / 3.4)",
+        "Raw Rating": "\n2.3"
+    },
+    {
+        "Date": "\n12/2/96",
+        "Nitro Rating": "\n3.4 (2.8 / 3.9)",
+        "Raw Rating": "\n2.3"
+    },
+    {
+        "Date": "\n11/25/96",
+        "Nitro Rating": "\n3.1 (2.7 / 3.5)",
+        "Raw Rating": "\n2.1"
+    },
+    {
+        "Date": "\n11/18/96",
+        "Nitro Rating": "\n3.2 (2.8 / 3.6)",
+        "Raw Rating": "\n2.4"
+    },
+    {
+        "Date": "\n11/11/96",
+        "Nitro Rating": "\n3.5 (3.0 / 4.0)",
+        "Raw Rating": "\n2.5"
+    },
+    {
+        "Date": "\n11/4/96",
+        "Nitro Rating": "\n3.4 (2.9 / 3.8)",
+        "Raw Rating": "\n2.3"
+    },
+    {
+        "Date": "\n10/28/96",
+        "Nitro Rating": "\n3.5 (3.7 / 3.3)",
+        "Raw Rating": "\n2.0"
+    },
+    {
+        "Date": "\n10/21/96",
+        "Nitro Rating": "\n3.2 (3.3 / 3.0)",
+        "Raw Rating": "\n2.6"
+    },
+    {
+        "Date": "\n10/14/96",
+        "Nitro Rating": "\n3.2 (3.4 / 3.1)",
+        "Raw Rating": "\n1.8"
+    },
+    {
+        "Date": "\n10/7/96",
+        "Nitro Rating": "\n3.5 (3.5 / 3.5)",
+        "Raw Rating": "\n2.1"
+    },
+    {
+        "Date": "\n9/30/96",
+        "Nitro Rating": "\n3.3 (3.4 / 3.1)",
+        "Raw Rating": "\n2.3"
+    },
+    {
+        "Date": "\n9/23/96",
+        "Nitro Rating": "\n3.4 (3.3 / 3.5)",
+        "Raw Rating": "\n2.0"
+    },
+    {
+        "Date": "\n9/16/96",
+        "Nitro Rating": "\n3.6 (3.5 / 3.6)",
+        "Raw Rating": "\n2.1"
+    },
+    {
+        "Date": "\n9/9/96",
+        "Nitro Rating": "\n3.7 (3.7 / 3.7)",
+        "Raw Rating": "\n2.4"
+    },
+    {
+        "Date": "\n9/2/96",
+        "Nitro Rating": "\n4.3 (4.0 / 4.6)",
+        "Raw Rating": "\n\u2014"
+    },
+    {
+        "Date": "\n8/26/96",
+        "Nitro Rating": "\n4.3 (3.8 / 4.8)",
+        "Raw Rating": "\n\u2014"
+    },
+    {
+        "Date": "\n8/19/96",
+        "Nitro Rating": "\n3.5 (3.4 / 3.5)",
+        "Raw Rating": "\n2.9"
+    },
+    {
+        "Date": "\n8/12/96",
+        "Nitro Rating": "\n3.3 (3.2 / 3.4)",
+        "Raw Rating": "\n2.0"
+    },
+    {
+        "Date": "\n8/5/96",
+        "Nitro Rating": "\n3.0 (3.0 / 3.0)",
+        "Raw Rating": "\n2.8"
+    },
+    {
+        "Date": "\n7/29/96",
+        "Nitro Rating": "\n3.0 (3.2 / 2.9)",
+        "Raw Rating": "\n2.1"
+    },
+    {
+        "Date": "\n7/22/96",
+        "Nitro Rating": "\n2.6 (2.7 / 2.5)",
+        "Raw Rating": "\n2.2"
+    },
+    {
+        "Date": "\n7/15/96",
+        "Nitro Rating": "\n3.4 (3.3 / 3.5)",
+        "Raw Rating": "\n2.6"
+    },
+    {
+        "Date": "\n7/8/96",
+        "Nitro Rating": "\n3.5 (3.3 / 3.7)",
+        "Raw Rating": "\n2.5"
+    },
+    {
+        "Date": "\n7/1/96",
+        "Nitro Rating": "\n3.3 (3.0 / 3.6)",
+        "Raw Rating": "\n2.6"
+    },
+    {
+        "Date": "\n6/24/96",
+        "Nitro Rating": "\n3.2 (3.2 / 3.3)",
+        "Raw Rating": "\n2.7"
+    },
+    {
+        "Date": "\n6/17/96",
+        "Nitro Rating": "\n3.4 (3.2 / 3.6)",
+        "Raw Rating": "\n2.3"
+    },
+    {
+        "Date": "\n6/10/96",
+        "Nitro Rating": "\n2.6 (2.5 / 2.6)",
+        "Raw Rating": "\n2.7"
+    },
+    {
+        "Date": "\n6/3/96",
+        "Nitro Rating": "\n>3.0\n\t\t(2.8 / 3.2)",
+        "Raw Rating": "\n2.3"
+    },
+    {
+        "Date": "\n5/27/96",
+        "Nitro Rating": "\n2.8 (2.7 / 2.8)",
+        "Raw Rating": "\n3.3"
+    },
+    {
+        "Date": "\n5/20/96",
+        "Nitro Rating": "\n2.3",
+        "Raw Rating": "\n3.1"
+    },
+    {
+        "Date": "\n5/13/96",
+        "Nitro Rating": "\n2.3",
+        "Raw Rating": "\n3.5"
+    },
+    {
+        "Date": "\n5/6/96",
+        "Nitro Rating": "\n1.9",
+        "Raw Rating": "\n4.1"
+    },
+    {
+        "Date": "\n4/29/96",
+        "Nitro Rating": "\n2.1",
+        "Raw Rating": "\n3.9"
+    },
+    {
+        "Date": "\n4/22/96",
+        "Nitro Rating": "\n2.7",
+        "Raw Rating": "\n3.3"
+    },
+    {
+        "Date": "\n4/15/96",
+        "Nitro Rating": "\n2.8",
+        "Raw Rating": "\n3.1"
+    },
+    {
+        "Date": "\n4/8/96",
+        "Nitro Rating": "\n\u2014",
+        "Raw Rating": "\n4.7"
+    },
+    {
+        "Date": "\n4/1/96",
+        "Nitro Rating": "\n2.8",
+        "Raw Rating": "\n2.9"
+    },
+    {
+        "Date": "\n3/25/96",
+        "Nitro Rating": "\n3.1",
+        "Raw Rating": "\n2.8"
+    },
+    {
+        "Date": "\n3/18/96",
+        "Nitro Rating": "\n3.6",
+        "Raw Rating": "\n2.9"
+    },
+    {
+        "Date": "\n3/11/96",
+        "Nitro Rating": "\n3.2",
+        "Raw Rating": "\n2.9"
+    },
+    {
+        "Date": "\n3/4/96",
+        "Nitro Rating": "\n\u2014",
+        "Raw Rating": "\n3.6"
+    },
+    {
+        "Date": "\n2/26/96",
+        "Nitro Rating": "\n3.2",
+        "Raw Rating": "\n3.1"
+    },
+    {
+        "Date": "\n2/19/96",
+        "Nitro Rating": "\n2.9",
+        "Raw Rating": "\n3.1"
+    },
+    {
+        "Date": "\n2/12/96",
+        "Nitro Rating": "\n3.7",
+        "Raw Rating": "\n\u2014"
+    },
+    {
+        "Date": "\n2/5/96",
+        "Nitro Rating": "\n2.9",
+        "Raw Rating": "\n2.7"
+    },
+    {
+        "Date": "\n1/29/96",
+        "Nitro Rating": "\n2.8",
+        "Raw Rating": "\n2.4"
+    },
+    {
+        "Date": "\n1/22/96",
+        "Nitro Rating": "\n2.7",
+        "Raw Rating": "\n2.9"
+    },
+    {
+        "Date": "\n1/15/96",
+        "Nitro Rating": "\n3.5",
+        "Raw Rating": "\n2.4"
+    },
+    {
+        "Date": "\n1/8/96",
+        "Nitro Rating": "\n2.8",
+        "Raw Rating": "\n3.0"
+    },
+    {
+        "Date": "\n1/1/96",
+        "Nitro Rating": "\n2.5",
+        "Raw Rating": "\n2.6"
+    },
+    {
+        "Date": "\n12/25/95",
+        "Nitro Rating": "\n2.5",
+        "Raw Rating": "\n\u2014"
+    },
+    {
+        "Date": "\n12/18/95",
+        "Nitro Rating": "\n2.7",
+        "Raw Rating": "\n2.3"
+    },
+    {
+        "Date": "\n12/11/95",
+        "Nitro Rating": "\n2.6",
+        "Raw Rating": "\n2.5"
+    },
+    {
+        "Date": "\n12/4/95",
+        "Nitro Rating": "\n2.6",
+        "Raw Rating": "\n2.4"
+    },
+    {
+        "Date": "\n11/27/95",
+        "Nitro Rating": "\n2.3",
+        "Raw Rating": "\n2.5"
+    },
+    {
+        "Date": "\n11/20/95",
+        "Nitro Rating": "\n2.5",
+        "Raw Rating": "\n2.3"
+    },
+    {
+        "Date": "\n11/13/95",
+        "Nitro Rating": "\n2.0",
+        "Raw Rating": "\n2.6"
+    },
+    {
+        "Date": "\n11/6/95",
+        "Nitro Rating": "\n2.3",
+        "Raw Rating": "\n2.1"
+    },
+    {
+        "Date": "\n10/30/95",
+        "Nitro Rating": "\n2.5",
+        "Raw Rating": "\n2.2"
+    },
+    {
+        "Date": "\n10/23/95",
+        "Nitro Rating": "\n2.2",
+        "Raw Rating": "\n2.6"
+    },
+    {
+        "Date": "\n10/16/95",
+        "Nitro Rating": "\n2.2",
+        "Raw Rating": "\n2.5"
+    },
+    {
+        "Date": "\n10/9/95",
+        "Nitro Rating": "\n2.6",
+        "Raw Rating": "\n2.6"
+    },
+    {
+        "Date": "\n10/2/95",
+        "Nitro Rating": "\n2.5",
+        "Raw Rating": "\n2.5"
+    },
+    {
+        "Date": "\n9/25/95",
+        "Nitro Rating": "\n2.7",
+        "Raw Rating": "\n1.9"
+    },
+    {
+        "Date": "\n9/18/95",
+        "Nitro Rating": "\n2.4",
+        "Raw Rating": "\n2.5"
+    },
+    {
+        "Date": "\n9/11/95",
+        "Nitro Rating": "\n2.5",
+        "Raw Rating": "\n2.2"
+    },
+    {
+        "Date": "\n9/4/95",
+        "Nitro Rating": "\n2.9",
+        "Raw Rating": "\n\u2014"
+    }
+]
