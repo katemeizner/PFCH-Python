@@ -1,0 +1,112 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+@media(min-width:767px) {
+    .navbar {
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+    }
+}
+
+/* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
+The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
+of those sections to manage the look and feel of the site. */
+
+.intro-section {
+    height: 800px;
+    padding-top: 140px;
+    text-align: center;
+    background-image: url("../img/landscape.png");
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+.darkcontainer {
+     height: 100%;
+     width: 74%;
+     margin: 0 auto;
+     text-align: center;
+     background-color: #000;
+    opacity : 0.7;
+
+} 
+
+ .vizpic {
+    height: 100%;
+    width: 83%;
+    margin: 0 auto;
+    text-align: center;
+    display: inline-block;
+ }
+
+.about-section {
+    height: 100%;
+    height: 850px;
+    padding-top: 50px;
+    text-align: center;
+    background: #fff;
+}
+
+.services-section {
+    height: 100%;
+    padding-top: 40px;
+    text-align: center;
+    background: #fff;
+    height: 825px;
+}
+
+.contact-section {
+    height: 100%;
+    padding-top: 40px;
+    text-align: center;
+    background: #eee;
+    height: 850px;
+}
+
+img {
+    display:inline-block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.darkcontainer .btn {
+    padding: 10px;
+}
+
+.services-section {
+    height: 3600px;
+}
+
+#vizbtn {
+    background: #ed665d;
+    color: #fff;
+    box-shadow: 5px 4px 4px #a178c4;
+    border: none;
+    font-size: 16px;
+}
+
+ .tableau {
+    margin: 0 auto;
+    width: 89%;
+    text-align: center;
+    display: inline-block;
+ }

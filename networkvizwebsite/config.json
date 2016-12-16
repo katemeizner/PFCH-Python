@@ -1,0 +1,60 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "http://www.nerdly.co.uk/wp-content/uploads/2015/08/WWE-wars-small.jpg",
+    "text": ""
+  },
+  "text": { 
+    "more": "Created by Katherine Meizner for LIS-664 at Pratt SI",
+    "intro": "This network graph is one component of 'Monday Night Wars: Data from Wrestling's Golden Age,' a data-driven project based on a late 1990s rivalry between two wrestling promotions (WCW & WWF). The network graph shows cooccurences of wrestlers who participated in WCW and WWF wrestling matches between Sept 1995 & Jan 2001. The network, which pushes 'bridges' toward the center of the graph, indicates that despite WCW and WWF's rivalry, there was an amount of talent crossover between the two companies. The wrestlers closest to the center with the largest nodes were likely some of the key players during this era of wrestling.</br> </br><em>Red Edge</em>: WWF </br> <em>Purple Edge</em>: WCW",
+    "title": "Monday Night Wars Network Graph"
+  },
+  "legend": {
+    "edgeLabel": "Coocurence",
+    "colorLabel": "Wrestling Company (Promotion)",
+    "nodeLabel": "Wrestler"
+  },
+  "features": {
+    "search": true,
+ 
+    "hoverBehavior": "None"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#2f2f2f",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#1c1c1c",
+      "labelThreshold": 5,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14,
+      "labelSize":"fixed",
+      "labelSizeRatio": 5,
+      "font":"PT Sans",
+      "borderSize": 1,
+      "nodeBorderColor": "default",
+      "defaultNodeBorderColor":"#fff",
+      "defaultBorderView": "always"
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.9,
+      "minEdgeSize": 0.4,
+      "minNodeSize": 1,
+      "maxNodeSize": 8
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
